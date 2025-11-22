@@ -18,3 +18,7 @@ aliases:
 - Nexus
 - Harbor
 - ...
+
+Take images to:
+
+- [[continuous integraty|CI]] server push to registry and pull to production servers
