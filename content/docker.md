@@ -1,7 +1,9 @@
 ---
-created: "2025-11-22"
-title: "docker"
+created: 2025-11-22
+title: docker
 tags:
+  - man
+  - docker
 aliases:
 ---
 > [!example] Options
@@ -13,7 +15,7 @@ aliases:
 > - `--mount`, `--volume`, `-v` — volume
 > - `--name` — provide specific name for container
 > - `--network`, `--net` — connect to specific network
-> - `--platform` —
-> - `--publish`, `-p` —
-> - `--restart` —
-> - `--rm` — 
+> - `--platform` — which on architecture run
+> - `--publish`, `-p` — ports
+> - `--restart` — if exit container restart it
+> - `--rm` — remove after exit
