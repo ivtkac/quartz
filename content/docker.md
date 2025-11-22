@@ -5,8 +5,15 @@ tags:
 aliases:
 ---
 > [!example] Options
-> - `-d`
-> - `--entrypoint` u
+> - `-d` — 
+> - `--entrypoint` — 
 > - `--env`, `-e`, `--env-file` — 
 > - `--init` — 
 > - `--interactive`, `-i`, `--tty`, `-t` —
+> - `--mount`, `--volume`, `-v` —
+> - `--name` —
+> - `--network`, `--net` —
+> - `--platform` —
+> - `--publish`, `-p` —
+> - `--restart` —
+> - `--rm` — 
