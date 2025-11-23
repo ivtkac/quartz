@@ -12,3 +12,7 @@ aliases:
 | `/etc/httpd/conf.d/*.conf`                                  | Налаштування віртуальних хостів |
 | `/var/www/html`                                             | Файли вебсайту                  |
 | `/var/log/httpd`                                            | Логи                            |
+```FILES
+	/etc/httpd/conf.d/*.conf
+		Settings for v
+```

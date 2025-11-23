@@ -8,8 +8,12 @@ tags:
 aliases:
   - Config files for DNS
 ---
-| **Файл**                                       | **Призначення**      |
-| ---------------------------------------------- | -------------------- |
-| [[Файл etc-hosts\|/etc/hosts]]                 | Локальний DNS        |
-| [[Файл etc nsswitch.conf\|/etc/nsswitch.conf]] | Система резолву імен |
-| [[Файл etc resolv.conf\|/etc/resolv.conf]]     | Перелік DNS-серверів |
+
+FILES:
+
+- [[Файл etc-hosts|/etc/hosts]]
+	- Local DNS
+- [[Файл etc nsswitch.conf|/etc/nsswitch.conf]]
+	- Resolving domain system
+- [[Файл etc resolv.conf|/etc/resolv.conf]]
+	- List of DNS servers

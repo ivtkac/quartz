@@ -5,20 +5,32 @@ tags:
   - config
   - bash
 aliases:
+  - Config bash
 ---
-
-## Interactive shells (login)
-
-| **Файл**          | **Призначення**                                                               |
-| ----------------- | ----------------------------------------------------------------------------- |
-| `/etc/profile`    | глобальний скрипт конфігурації                                                |
-| `~/.bash_profile` | особистий файл запуску користувача                                            |
-| `~/.bash_login`   | якщо `~/.bash_profile` відсутній, тоді прочитати цей скрипт                   |
-| `~/.profile`      | ні `~/.bash_profile`, ні `~/.bash_login` не знайдено, тоді прочитати цей файл |
-
-## Non-interactive shells (no-login)
-
-| **Файл**           | **Призначення**                    |
-| ------------------ | ---------------------------------- |
-| `/etc/bash.bashrc` | глобальний скрипт конфігурації     |
-| `~/.bashrc`        | особистий файл запуску користувача |
+```
+FILES
+  /bin/bash
+    The bash executable
+	
+  /etc/profile
+    The systemwide initialization file, executed for login shells
+	
+  /etc/bash.bashrc
+    The systemwide per-interactive-shell startup file
+	
+  /etc/bash.bash.logout
+    The systemwide login shell cleanup file, executed when a login shell exists
+	
+  ~/.bash_profile
+    The personal initialization file, executed for logins shells
+	
+  ~/.bashrc
+    The individual per-interactive-shell startup file
+	
+  ~/.bash_logout
+    The individual login shell cleanup file, executed when a login shell exits
+	
+  ~/.inputrc
+    Individual readline initialization file
+	
+```
