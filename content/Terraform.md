@@ -13,9 +13,18 @@ aliases:
 - enables application software best practices to infrastructure
 - compatible with many clouds and services
 
+## Architecture
+
+```mermaid
+graph LR
+	[Terraform State] --> Core
+	Core --> State
+	Config --> Core
+```
+
 ## Common patterns
 
-> [!note] Common Patterns
+> [!example] Common Patterns
 > - terraform for provisioning, [[Ansible]] for config management
 > 	- terraform for vm, ansible for install necessary dependencies
 > - terraform for provisioning, [[packer]] for server templating
