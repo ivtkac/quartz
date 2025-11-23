@@ -10,4 +10,8 @@ aliases:
 	- bind mount code into container
 	- use hot reloading utilities
 - include profiling and debugging tooling
-	- 
+	- Debug specific compose overlay file
+- execute tests within container
+	- test specific compose overlay file
+- [[continuous integraty]]
+- ephemeral environments
