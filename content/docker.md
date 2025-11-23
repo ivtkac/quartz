@@ -6,6 +6,8 @@ tags:
   - docker
 aliases:
 ---
+- `docker scout` — check vulnerabilies
+
 > [!example] Options
 > - `-d` —  run as background
 > - `--entrypoint` — override entrypoint
