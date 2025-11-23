@@ -1,6 +1,6 @@
 ---
-created: 2025-11-21
-title: AWS
+created: 2025-11-23
+title: AWS regions and zones
 tags:
   - devops
   - aws
