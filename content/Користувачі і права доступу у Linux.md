@@ -14,7 +14,11 @@ aliases:
 
 ## Конфігураційні файли
 
-- [[Файл etc-passwd|/etc/passwd]] — облікові записи користувачів
-- [[Файл etc-group|/etc/group]] — групи користувачів
-- [[Файл etc-shadow|/etc/shadow]] — паролі
-- [[Файл etc-sudoers|/etc/sudoers]] — права доступу (дозволити [[sudo]])
+- [[Файл etc-passwd|/etc/passwd]]
+	- облікові записи користувачів
+- [[Файл etc-group|/etc/group]]
+	- групи користувачів
+- [[Файл etc-shadow|/etc/shadow]]
+	- паролі
+- [[Файл etc-sudoers|/etc/sudoers]]
+	- права доступу (дозволити [[sudo]])

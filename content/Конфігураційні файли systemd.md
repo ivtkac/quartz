@@ -9,8 +9,17 @@ aliases:
   - Конфігураційні файли systemd
 ---
 
-| Каталог                                        | Опис                   | Пріоритет   |
-| ---------------------------------------------- | ---------------------- | ----------- |
-| `/etc/systemd/system` або `~/.config/systemd/` | Користувацькі юніти    | Найвищий    |
-| `/usr/lib/systemd/system`                      | Встановлені з пакетами | Стандартний |
-| `/run/systemd/system/`                         | Тимчасові юніти        |             |
+```
+FILES
+	/etc/systemd/system
+		Root systemd units (high priority)
+	
+	~/.config/systemd/
+		User systemd units (high priority)
+		
+	/usr/lib/systemd/system
+		Installed by packages
+		
+	/run/systemd/system/
+		Temporary units
+```
