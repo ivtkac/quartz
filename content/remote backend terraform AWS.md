@@ -54,3 +54,18 @@ resource "aws_dynamodb_table" "terraform_locks" {
 }
 ```
 
+2. Specified as S3 bucket
+```tf
+terraform {
+	backend "s3" {
+		bucket = "my-tf-state",
+		key = "tf-infra/terraform.tfstate"
+		region = "us-east-1"
+		dynamodb_table = "terraform-state-locking"
+		encrypt = true
+	}
+}
+```
+
+- `terraform init`
+- `terraform plan`
