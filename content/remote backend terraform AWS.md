@@ -19,7 +19,7 @@ terraform {
 }
 ```
 
-## Bootstraping
+## 1. Bootstraping
 
 1. default to local (without remote backend)
 2. defined [[AWS S3]] and [[Dynamodb]]
@@ -53,3 +53,4 @@ resource "aws_dynamodb_table" "terraform_locks" {
 	}
 }
 ```
+
