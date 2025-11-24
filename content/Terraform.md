@@ -25,6 +25,15 @@ graph LR
 	E <--> G[Cloudlfare]
 ```
 
+
+## Basic Usage Sequence
+
+> [!example] Sequence
+> - terraform init
+> - terraform plan
+> - terraform apply
+> - terraform destroy
+
 ## Common patterns
 
 > [!example] Common Patterns
