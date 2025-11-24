@@ -18,4 +18,4 @@ terraform {
 ```
 
 - Free up to 5 users
-- 
+- $20/user/month beyond
