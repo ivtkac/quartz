@@ -2,7 +2,7 @@
 created: 2025-11-24
 title: Data
 tags:
-  - data-science
+  - datascience
 aliases:
   - What is data?
 ---
