@@ -12,8 +12,7 @@ aliases:
 
 - enables application software best practices to infrastructure
 - compatible with many clouds and services
-- stores 
-
+- [[Terraform state file]]
 ## Architecture
 
 ```mermaid
