@@ -17,9 +17,12 @@ aliases:
 
 ```mermaid
 graph LR
-	[Terraform State] --> Core
-	Core --> State
-	Config --> Core
+	A[📄 Terraform State] <--> C[Terraform Core]
+	B[⚙️ Terraform Config] --> C
+	C <--> D[AWS Provider]
+	C <--> E[Cloudflare Provider]
+	D <--> F[AWS]
+	E <--> G[Cloudlfare]
 ```
 
 ## Common patterns
