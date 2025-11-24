@@ -8,4 +8,6 @@ aliases:
 > [!tldr]
 > **Unstructured data** lacks a strictly defined format.
 
-> []
+> [!note] Often comes in forms such as text documents, images, and videos.
+
+> [!note] Can include [[Quantitative data]] (numerical values embedded in text) and [[Qualitative data]] (such as customer comments).
