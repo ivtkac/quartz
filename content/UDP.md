@@ -23,3 +23,7 @@ UDP має специфічні атрибути, що робить його і�
 4. **Stateless** для великої к-сть клієнтів ([[IPTV]])
 5. **Low latency** для real-time додатків ([[VoIP]], [[RTSP]])
 6. **Multicast support** для [[broadcast]] ([[RIP]])
+
+## Будова
+
+![[udp.png]]
