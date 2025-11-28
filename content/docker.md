@@ -6,7 +6,11 @@ tags:
   - docker
 aliases:
 ---
-- `docker scout` — check vulnerabilies
+> [!tldr]
+> Docker is an open platform for developing, shipping, and running applications.
+
+Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With **Docker**, you can manage your infrastructure in the same ways you manage your applications.
+
 
 > [!example] Options
 > - `-d` —  run as background
@@ -21,3 +25,5 @@ aliases:
 > - `--publish`, `-p` — ports
 > - `--restart` — if exit container restart it
 > - `--rm` — remove after exit
+
+> [!warning] `docker scout` — check vulnerabilies
