@@ -5,4 +5,4 @@ tags:
   - version-control
 aliases:
 ---
-Centralized [[version control system|VCS]]s have a 
+Centralized [[Version control|VCS]]s have a 

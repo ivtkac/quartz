@@ -13,5 +13,5 @@ aliases:
 	- Debug specific compose overlay file
 - execute tests within container
 	- test specific compose overlay file
-- [[continuous integraty]]
+- [[Continuous integration]]
 - ephemeral environments

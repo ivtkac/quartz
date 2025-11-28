@@ -8,7 +8,7 @@ aliases:
 doc: https://git-scm.com/
 ---
 > [!tldr]
-> **Git** — is a free and [[open-source]] distributed [[version control system]].
+> **Git** — is a free and [[open-source]] distributed [[Version control]].
 
 ---
 

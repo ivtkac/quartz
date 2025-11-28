@@ -9,6 +9,6 @@ aliases:
 
 - Automated builds should use some combination of:
 	- timestamp when image was built
-	- Build ID (from [[continuous integraty|CI]] system)
+	- Build ID (from [[Continuous integration|CI]] system)
 	- Commit hash of code used to build image
 	- SemVer release version

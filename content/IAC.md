@@ -10,7 +10,7 @@ aliases:
 > [!tldr]
 > **IaC** — це основа [[DevOps]] та компоненти [[continuous delivery|CD]].
 
-> [!warning] Уникайте ручного налаштування для консистенції.
+> [!warning] AVOID MANUAL CONFIGURATION JUST IN CASE
 
 - вирішує проблему **environmental drift** у пайплайнах релізу.
 - прибрає ручне налаштування
