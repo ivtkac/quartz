@@ -1,0 +1,14 @@
+---
+created: 2025-11-14
+title: 🦄 Welcome
+tags:
+aliases:
+  - index
+---
+> [!info] абоба...
+
+> [!example] Гіперфіксації
+> - [[Linux]]
+> - [[Мережа]]
+> - [[MySQL]]
+> - [[DevOps Tools]]
