@@ -11,8 +11,5 @@ aliases:
 > [!example] Гіперфіксації
 > - [[Linux]]
 > - [[Мережа]]
-> - [[MySQL]]
-> - [[Ansible]]
-> - [[Terraform]]
-> - [[Docker]]
-> - [[AWS]]
+> - [[MySQL]] #sql
+> - [[DevOps Tools]]
