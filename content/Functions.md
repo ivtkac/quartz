@@ -1,0 +1,9 @@
+---
+created: 2025-11-29
+title: Functions
+tags:
+  - programming
+aliases:
+---
+> [!tldr]
+> **Functions** are reusable block of [[Code]].
