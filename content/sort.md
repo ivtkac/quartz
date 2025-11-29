@@ -2,10 +2,9 @@
 created: 2025-11-16
 title: sort
 tags:
-  - 🌱todo
   - man
   - OS/Linux
 aliases:
-description: Сортувати рядки тексту
+description: Сортує рядки тексту
 ---
-> [!tldr] Сортувати рядки тексту
+> [!tldr] Сортує рядки тексту

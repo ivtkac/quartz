@@ -9,3 +9,4 @@ tags:
 aliases:
 default port: 1701
 ---
+> [!note] Default Port is $1701$.

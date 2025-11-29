@@ -2,7 +2,6 @@
 created: 2025-11-16
 title: tee
 tags:
-  - 🌱todo
   - man
   - OS/Linux
   - text-processing
