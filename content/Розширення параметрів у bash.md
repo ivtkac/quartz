@@ -1,6 +1,6 @@
 ---
-created: 2025-11-15
-title: розширення параметрів у bash
+created: 2025-11-29
+title: Розширення параметрів у bash (Parameter Expansion)
 tags:
   - scripting
   - bash

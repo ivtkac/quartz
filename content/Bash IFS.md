@@ -1,6 +1,6 @@
 ---
-created: 2025-11-14
-title: IFS bash
+created: 2025-11-29
+title: Bash IFS
 tags:
   - scripting
   - bash
