@@ -6,7 +6,22 @@ tags:
   - tools
 aliases:
 ---
-> [!example] Tools
-> - [[Ansible]]
+> [!example] Scripting
+> - [[Bash]]
+> - [[Python]]
+> - [[Go]]
+> - [[Rust]]
+
+
+> [!example] Containers
+>- [[Docker]]
+>- [[Kubernetes]]
+
+> [!example] IaC
 > - [[Terraform]]
-> - [[Docker]]
+> - [[Vagrant]]
+
+> [!example] Cloud Platform
+> - [[AWS]]
+> - [[GCP]]
+> - [[Azure]]

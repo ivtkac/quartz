@@ -2,7 +2,6 @@
 created: 2025-11-14
 title: 🦄 Welcome
 tags:
-  - welcome
 aliases:
   - index
 ---
@@ -11,5 +10,5 @@ aliases:
 > [!example] Гіперфіксації
 > - [[Linux]]
 > - [[Мережа]]
-> - [[MySQL]] #sql
+> - [[MySQL]]
 > - [[DevOps Tools]]
