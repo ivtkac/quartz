@@ -7,4 +7,4 @@ tags:
 aliases:
 ---
 Linux: `/var/lib/docker/volumes`
-в інших ОС докер (docker desktop) працює у [[Віртуальні машини|віртуальній машині]] [[Linux]]
+в інших ОС докер (docker desktop) працює у [[Віртуальні машини|віртуальній машині]] [[🐧 Linux]]

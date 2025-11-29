@@ -6,6 +6,9 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
+journal
+templates
+bases
 private/
 .replit
 replit.nix

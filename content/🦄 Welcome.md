@@ -8,7 +8,7 @@ aliases:
 > [!info] абоба...
 
 > [!example] Гіперфіксації
-> - [[Linux]]
+> - [[🐧 Linux]]
 > - [[Мережа]]
 > - [[MySQL]]
 > - [[DevOps Tools]]
