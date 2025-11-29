@@ -1,6 +1,6 @@
 ---
-created: 2025-11-13
-title: Command Not Found
+created: 2025-11-29
+title: Command not found
 tags:
   - bash
   - error
