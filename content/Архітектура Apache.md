@@ -5,7 +5,6 @@ tags:
   - apache
   - principle
 aliases:
-url: https://httpd.apache.org/docs/current/mod/quickreference.html
 ---
 ```
 ┌─────────────────────────┐
@@ -18,3 +17,7 @@ url: https://httpd.apache.org/docs/current/mod/quickreference.html
 │  - mod_proxy (Reverse)  │
 └─────────────────────────┘
 ```
+
+---
+
+- https://httpd.apache.org/docs/current/mod/quickreference.html
