@@ -5,8 +5,7 @@ tags:
   - javascript
 aliases:
 ---
-- functions are defined with `function myname(variable) {}`
-
+Functions are defined with `function myname(variable) {}`.
 ## Arrow functions
 
 **Arrow functions** have a shorter syntax compared to regular functions. You can skip keyword `function`
