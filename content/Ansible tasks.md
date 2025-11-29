@@ -1,16 +1,16 @@
 ---
 created: 2025-11-21
-title: Ansible tasks
+title: Завдання у Ansible
 tags:
   - ansible
 aliases:
 ---
 > [!tldr]
-> **Task** - це окреме завдання в [[ansible playbook|плейбуці]]. 
+> **Task (завдання)** - це окреме завдання в [[ansible playbook|плейбуці]]. 
 
 > [!info] Кожен task має:
 > - Назву (name)
 > - Модуль (yum, service, win_chocolatey)
 > - Параметри модуля
 
-> [!note] Завдання [[ansible]] абстрагують складні команди в прості, зрозумілі дії.
+> [!note] Завдання [[Ansible]] абстрагують складні команди в прості, зрозумілі дії.

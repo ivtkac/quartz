@@ -7,7 +7,7 @@ aliases:
 ---
 
 > [!tldr]
-> **Playbook** - це [[YAML]]-файл, що описує [[ansible tasks|завдання]] для різних груп машин у [[Ansible]]. 
+> **Playbook** - це [[YAML]]-файл, що описує [[Ansible tasks|завдання]] для різних груп машин у [[Ansible]]. 
 
 Кожен playbook містить:
  - Цільові хости (hosts)
