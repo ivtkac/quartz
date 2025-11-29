@@ -6,13 +6,6 @@ tags:
   - tools
 aliases:
 ---
-> [!example] Scripting
-> - [[Bash]]
-> - [[Python]]
-> - [[Go]]
-> - [[Rust]]
-
-
 > [!example] Containers
 >- [[Docker]]
 >- [[Kubernetes]]
@@ -20,6 +13,12 @@ aliases:
 > [!example] IaC
 > - [[Terraform]]
 > - [[Vagrant]]
+
+> [!example] Scripting
+> - [[Bash]]
+> - [[Python]]
+> - [[Go]]
+> - [[Rust]]
 
 > [!example] Cloud Platform
 > - [[AWS]]

@@ -7,9 +7,9 @@ tags:
 aliases:
 ---
 > [!tldr]
-> Docker is an open platform for developing, shipping, and running applications.
+> **Docker** is an open platform for developing, shipping, and running applications.
 
-Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With **Docker**, you can manage your infrastructure in the same ways you manage your applications.
+**Docker** allows you to separate your applications from your infrastructure so you can deliver software quickly. With **Docker**, you can manage your infrastructure in the same ways you manage your applications.
 
 ## Options
 
@@ -27,4 +27,4 @@ Docker allows you to separate your applications from your infrastructure so you 
 > - `--restart` — if exit container restart it
 > - `--rm` — remove after exit
 
-> [!warning] `docker scout` — check vulnerabilies
+> [!note] `docker scout` — check vulnerabilies
