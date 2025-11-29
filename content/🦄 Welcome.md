@@ -1,14 +1,14 @@
 ---
 created: 2025-11-14
-title: 🦄 Welcome
+title: 🦄 All starts here...
 tags:
 aliases:
   - index
 ---
 > [!info] абоба...
 
-> [!example] Гіперфіксації
+> [!example] Теми
 > - [[🐧 Linux]]
 > - [[Мережа]]
-> - [[MySQL]]
-> - [[DevOps Tools]]
+> - [[СКБД]]
+> - [[DevOps]]
