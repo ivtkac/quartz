@@ -1,6 +1,6 @@
 ---
-created: "2025-11-14"
-title: "Стани з'єднань у iptables"
+created: 2025-11-14
+title: Стани з'єднань у iptables
 tags:
 aliases:
 ---

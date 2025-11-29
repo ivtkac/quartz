@@ -1,6 +1,6 @@
 ---
-created: "2025-11-14"
-title: "How to run forgejo with podman?"
+created: 2025-11-14
+title: How to run forgejo with podman?
 tags:
 aliases:
 ---

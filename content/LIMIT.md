@@ -1,6 +1,6 @@
 ---
-created: "2025-11-13"
-title: "LIMIT"
+created: 2025-11-13
+title: LIMIT
 tags:
 aliases:
 ---

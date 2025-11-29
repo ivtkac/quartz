@@ -1,6 +1,6 @@
 ---
-created: "2025-11-16"
-title: "TACACS+"
+created: 2025-11-16
+title: TACACS+
 tags:
 aliases:
 ---

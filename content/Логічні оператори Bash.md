@@ -1,6 +1,6 @@
 ---
-created: "2025-11-15"
-title: "Логічні оператори Bash"
+created: 2025-11-15
+title: Логічні оператори Bash
 tags:
 aliases:
 ---

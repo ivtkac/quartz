@@ -1,6 +1,6 @@
 ---
-created: "2025-11-15"
-title: "Арифметичні операції у bash"
+created: 2025-11-15
+title: Арифметичні операції у bash
 tags:
 aliases:
 ---
