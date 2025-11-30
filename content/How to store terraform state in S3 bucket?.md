@@ -25,6 +25,14 @@ You must configure the S3 backend inside the `terraform` block. This block **can
 
 ```terraform
 terraform {
-	required 
+	required_providers {
+		aws = {
+			source = "hashicorp/aws"
+			version = "~> 5.0"
+		}	
+	}
+}
+
+provider "aws" {
 }
 ```
