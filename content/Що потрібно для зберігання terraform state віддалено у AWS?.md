@@ -15,3 +15,5 @@ aliases:
 2. 🔒 **Таблиця [[Dynamodb]]** (для state locking)
 	- запобігає одночасному запуску `terraform apply` кількома користувачами
 	- повинна мати **первинний ключ** з назвою `LockID` (тип String)
+
+next:: [[How to store terraform state in S3 bucket?]]
