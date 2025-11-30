@@ -2,7 +2,6 @@
 created: 2025-11-14
 title: ⚙️ Configuration
 tags:
-  - 🌱hyperfixation
   - 🦮how-to
   - config
 aliases:
