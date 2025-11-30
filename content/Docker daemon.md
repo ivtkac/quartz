@@ -7,4 +7,4 @@ tags:
 aliases:
 ---
 > [!tldr]
-> The **[[Docker]] daemon** (`dockerd`) listens for [[Docker API]] requests and mange Docker objects, such as [[Docker images|images]],[[Docker containers|containers]], [[Docker networks|networks]], and [[Docker volumes|volumes]].
+> The **[[Docker]] daemon** (`dockerd`) listens for [[Docker API]] requests and mange Docker objects, such as [[Docker image|images]],[[Docker container|containers]], [[Docker networks|networks]], and [[Docker volumes|volumes]].
