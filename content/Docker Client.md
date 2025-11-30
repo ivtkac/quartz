@@ -28,7 +28,7 @@ aliases:
 
 ## Notes
 
-> [!note]
+> [!note] Notes
 > - client sends a command to [[daemon]] and carries them out
 > - can communicate with one or more daemon
 > - each commands use the [[Docker API]]
