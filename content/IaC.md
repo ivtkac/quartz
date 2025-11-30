@@ -13,6 +13,6 @@ aliases:
 > [!info] Repeatable, Reliable, Consistent
 
 > [!tldr]
-> **IaC** — це основа [[DevOps]] та компоненти [[continuous delivery|CD]].
+> **IaC** is the way of defining computing and network infrastructure through source code.
 
 > [!warning] AVOID MANUAL CONFIGURATION ALWAYS
