@@ -13,4 +13,4 @@ aliases:
 - легко масштабувати кластреи [[kubernetes]] без необхідності самостійно обслуговувати керуючі вузли (Control Plane)
 
 - керує API Server, etcd, Scheduler забезпечує резервування у кількох[[AWS regions and zones|зонах доступності]]
-- відповідальність лише за Worker Nodes, де фактично виконуються [[container]]
+- відповідальність лише за Worker Nodes, де фактично виконуються [[docker container]]

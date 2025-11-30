@@ -19,7 +19,7 @@ aliases:
 	- small blast radius
 	- faster startup and shutdown (minutes)
 	- faster  provisioning & decommissioning (seconds)
-3. [[container]]
+3. [[docker container]]
 	- no dependency conflicts
 	- even better utilization efficiency
 	- small blast radius

@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 > [!tldr]
-> **Docker registry** is the repository where are stored [[Docker image]].
+> **Docker registry** is the repository where are stored [[docker image]].
 
 > [!note] All **Docker registry** supports user management and secure connection.
 
