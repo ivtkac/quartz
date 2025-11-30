@@ -6,9 +6,5 @@ tags:
   - daemon
 aliases:
 ---
-The [[Docker]] 
-
-> [!example] Functions
-> - listening to [[Docker API]] requests
-> - managing Docker objects ([[Docker images|images]],[[Docker containers|containers]], [[Docker networks|networks]], and [[Docker volumes|volumes]])
-> - communicating with other [[daemon]]s for managing services
+> [!tldr]
+> The **[[Docker]] daemon** (`dockerd`) listens for [[Docker API]] requests and mange Docker objects, such as [[Docker images|images]],[[Docker containers|containers]], [[Docker networks|networks]], and [[Docker volumes|volumes]].
