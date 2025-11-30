@@ -8,20 +8,13 @@ tags:
   - config
 aliases:
 ---
-Storing your [[Terraform]] state remotely in an [[AWS S3]] bucket is the **recommended best practice** for team environments. It provides durability, scalability, and enables **state locking** to prevent concurrent state modifications.
+ ![[Що потрібно для зберігання terraform state віддалено у AWS?]]
 
-You must **manually** (or via a separate, minimal Terraform configuration) create two key resources before running your main configuration:
-
-1. 🗃️ **S3 Bucket** (for State Storage) 
-	- *versioning* must be enabled (for state recovery)
-	- *server-side-encryption* ([[SSE]])  should be enabled (e.g. AES-256)
-	- *public access* should be **blocked**
-2. 🔒 **[[Dynamodb]] Table** (for State Locking)
-	- prevents multiple users from running `terraform apply` simultaneously
-	- must have a **primary key** named `LockID` (of type String)
+Для зберігання стану [[Terraform]] віддалено [[AWS S3]] потрібно налаштувати серверну частину S3 всередині блоку `terraform`. Цей блок **не може** використовувати змінні (`var.*`) або функції.
 
 
-You must configure the S3 backend inside the `terraform` block. This block **cannot** use variables (`var.*`) or functions.
+
+Але для початку потрібно
 
 ```terraform
 terraform {
@@ -34,5 +27,28 @@ terraform {
 }
 
 provider "aws" {
+	profile = "default"
+	region = "eu-central-1"
 }
+
+resource "aws_s3_bucket" "terraform_state" {
+	bucket = "your-unique-terraform-state-bucket-name"
+	tags = {
+		Name = "Terraform State Bucket"	
+		Environment = "Production"
+	}
+	
+	lifecycle {
+		prevent_destroy = true	
+	}
+}
+
+resource "aws_s3_bucket_versioning" "terraform_state" {
+	bucket = aws_s3_bucket.terraform_state.id
+	versioning_configuration {
+		status = "Enabled"	
+	}
+}
+
+resource "aws_s3_bucket_server_side_encyrption_configuration"
 ```
