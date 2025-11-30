@@ -11,3 +11,12 @@ aliases:
 
 **Docker** allows you to separate your applications from your infrastructure so you can deliver software quickly. With **Docker**, you can manage your infrastructure in the same ways you manage your applications.
 
+```mermaid
+graph TB
+A[Docker Daemon]
+B[Container]
+C[Image] -- run --> B
+D[Dockerfile] -- build --> C
+E[Docker Registry] -- pull --> C
+C -- push --> E
+```
