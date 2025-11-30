@@ -7,5 +7,5 @@ tags:
 aliases:
 ---
 > [!tldr]
-> **Continuous Delivery (CD)** is the process of #automation build, test, configuration, and deployment from a build to a production environment.
+> **Continuous Delivery (CD)** is the process of automation, build, test, configuration, and deployment from a build to a production environment.
 
