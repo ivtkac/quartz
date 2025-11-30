@@ -9,7 +9,7 @@ aliases:
 > [!tldr]
 > **Інвенторія (Inventory)** — це файл, що містить список машин для управління в [[Ansible]].
 
-> [!note] Машини можна групувати за ролями (напр. webservers, workstations, databases).
+> [!note] Машини можна групувати за [[Ansible roles|ролями]] (напр. webservers, workstations, databases).
 
 > [!example] Наприклад
 > ```ini
