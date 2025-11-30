@@ -4,11 +4,9 @@ created: 2025-11-30
 tags:
   - docker
 aliases:
+  - container
 ---
 > [!tldr]
-> **Контейнер** це запущений екземпляр [[docker image|образу]], який містить усе необхідне для запуску програми.
+> **Container** is a runnable instance of [[docker image|image]].
 
-> [!tldr]
-> **Container** is a runnable instance of [[docker image|image]] that contains everything needed 
-
-За замовчуванням **контейнер** ізольований від інших контейнерів та хоста.
+> [!note] By default **container** is isolated from others containers and even host.

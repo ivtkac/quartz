@@ -5,6 +5,7 @@ tags:
   - docker
   - daemon
 aliases:
+  - containerd
 ---
 > [!tldr]
 > A **containerd** is a daemon that handles all the low-level [[docker container|container]] management tasks, storage, network, etc.

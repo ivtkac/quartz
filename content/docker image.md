@@ -6,5 +6,5 @@ tags:
 aliases:
 ---
 > [!tldr]
-> **Образ** це шаблон лише для читання з інструкціями для створення [[docker container|контейнеру]].
+> An **image** is a read-only template with instructions for creating a [[docker container]].
 
