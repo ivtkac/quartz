@@ -90,7 +90,6 @@ resource "aws_dynamodb_table" "terraform_locks" {
 2. Specified as S3 bucket
 ```tf
 terraform {
-terraform {
   backend "s3" {
     bucket         = "your-unique-terraform-state-bucket-name"
     key            = "terraform.tfstate"
