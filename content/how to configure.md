@@ -38,4 +38,4 @@ aliases:
 
 ### AWS
 
-- [[]]
+- [[Remote backend terraform AWS|How to configure store terraform state remotely in AWS?]]
