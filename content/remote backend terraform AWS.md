@@ -2,10 +2,15 @@
 created: 2025-11-24
 title: remote backend terraform AWS
 tags:
+  - 🦮how-to
   - terraform
   - aws
+  - config
 aliases:
 ---
+prev:: [[Що потрібно для зберігання terraform state віддалено у AWS?]]
+
+> [!warning] Before run backend we need boostrap bucket and dynamo db
 
 ```tf
 terraform {
