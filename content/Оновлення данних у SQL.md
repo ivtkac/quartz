@@ -12,3 +12,4 @@ WHERE some_column=some_value;
 ```
 
 > [!warning] Якщо не вказати WHERE, то оновляться усі записи.
+[[WHERE]]
