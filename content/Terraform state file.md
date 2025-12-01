@@ -9,7 +9,7 @@ aliases:
 - contains sensitive info
 - can be stored locally or remotety
 
-Better store remotely  (like [[Terraform Cloud]] or [[AWS S3]])
-	- sensitive data encrypted
-	- collaborative
-	- automation possible
+> [!tip] Better store remotely  (like [[Terraform Cloud]] or in [[Remote backend terraform AWS|AWS S3]])
+> - sensitive data encrypted
+> - collaborative
+> - automation possible

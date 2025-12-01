@@ -7,4 +7,4 @@ aliases:
 ---
 - об'єктне сховище для збереження інформації у вигляді об'єктів
 
-- [[remote backend terraform AWS]]
+- [[Remote backend terraform AWS]]
