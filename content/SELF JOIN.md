@@ -6,7 +6,7 @@ tags:
 aliases:
 description: Об'єднання таблиці з самою себе
 ---
-> [!info] **SELF JOIN** це [[Об'єднання таблиць|об'єднання таблиці]] самої з собою.
+> [!info] **SELF JOIN** це [[Об'єднання таблиць у SQL|об'єднання таблиці]] самої з собою.
 
 ```sql
 SELECT columns FROM table_name a
