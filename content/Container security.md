@@ -18,7 +18,7 @@ aliases:
 		- either pin major.minor (allows patch fixes to be integrated)
 		- pin specific image hash
 - if compromise a container, what can they do? how difficulty will it be to move laterally?
-	- docker daemon ([[dockerd]])
+	- docker daemon ([[Docker daemon|dockerd]])
 		- start with `--userns-remap` option (https://docs.docker.com/engine/security/userns-remap/)
 	- individual containers:
 		- use read only filesystem if writes are not needed
