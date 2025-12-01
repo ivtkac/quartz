@@ -10,13 +10,13 @@ aliases:
 ---
 prev:: [[Що потрібно для зберігання terraform state віддалено у AWS?]]
 
-> [!warning] Before run backend we need boostrap bucket and dynamo db
+> [!warning] Before run backend we need [[#1. Bootstraping|bootstrap]] bucket and dynamo db
 
 ```tf
 terraform {
 	backend "s3" {
-		bucket = "my-tf-state"	
-		key = "tf-infra/terraform.tfstate"
+		bucket = "your-unique-terraform-state-bucket-name"	
+		key = "terraform.tfstate"
 		region = "us-east-1"
 		dynamodb_table = "terraform-state-locking"
 		encrypt = true
