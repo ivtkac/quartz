@@ -101,4 +101,12 @@ terraform {
 ```
 
 - `terraform init`
-- `terraform plan`
+- `terraform plan` answer no and do this:
+
+```bash
+terraform state rm aws_dynamodb_table.terraform_lock
+terraform state rm aws_s3_bucket.terraform_state
+terraform state rm aws_s3_bucket_public_access_block.name
+terraform state rm aws_s3_bucket_server_side_encryption_configuration.terraform_state
+terraform state rm aws_s3_bucket_versioning.terraform_state
+```
