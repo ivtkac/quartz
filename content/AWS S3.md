@@ -7,4 +7,4 @@ aliases:
 ---
 - об'єктне сховище для збереження інформації у вигляді об'єктів
 
-- [[Remote backend terraform AWS]]
+- [[How to store terraform remotely in AWS S3 bucket?]]

@@ -18,4 +18,4 @@ prev:: [[Чому краще зберігати відалено terraform state
 	- запобігає одночасному запуску `terraform apply` кількома користувачами
 	- повинна мати **первинний ключ** з назвою `LockID` (тип String)
 
-next:: [[Remote backend terraform AWS|Як зберігати terraform state у S3?]]
+next:: [[How to store terraform remotely in AWS S3 bucket?|Як зберігати terraform state у S3?]]
