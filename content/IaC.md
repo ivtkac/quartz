@@ -23,4 +23,5 @@ aliases:
 - orchestration tools ([[Kubernetes]])
 - provisioning tools
 
-- declar
+- declarative: what you want? I want EC2, S3 bucket, load balancer
+- imperative: what you want happen? Run scripts, cron schedulig, what state
