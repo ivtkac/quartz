@@ -16,3 +16,8 @@ aliases:
 > **IaC** is the way of defining computing and network infrastructure through source code.
 
 > [!warning] AVOID MANUAL CONFIGURATION ALWAYS
+
+## Categories
+
+- ad hoc scripts
+- configuration 
