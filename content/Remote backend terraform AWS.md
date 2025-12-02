@@ -87,6 +87,8 @@ resource "aws_dynamodb_table" "terraform_locks" {
 }
 ```
 
+Run `terraform plan` and `terraform apply`
+
 2. Specified as S3 bucket
 ```tf
 terraform {
