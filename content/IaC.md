@@ -10,14 +10,14 @@ aliases:
 > [!question]- FAQ
 > - [[Why do you need IaC?]]
 
-> [!info] Repeatable, Reliable, Consistent
-
 > [!tldr]
 > **IaC** is the way of defining computing and network infrastructure through source code.
 
+> [!info] Repeatable, Reliable, Consistent
+
 > [!warning] AVOID MANUAL CONFIGURATION ALWAYS
 
-## Categories
 
 - ad hoc scripts
-- configuration 
+- configuration management tools
+- server templating tools 
