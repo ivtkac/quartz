@@ -8,8 +8,6 @@ tags:
   - config
 aliases:
 ---
-prev:: [[Що потрібно для зберігання terraform state віддалено у AWS?]]
-
 > [!warning] Before run backend we need create [[AWS S3|S3]] bucket and [[Dynamodb|dynamo db]]
 
 ### 1. Define resources S3 and DynamoDB
