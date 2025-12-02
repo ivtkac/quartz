@@ -89,7 +89,7 @@ resource "aws_dynamodb_table" "terraform_locks" {
 
 Run `terraform plan` and `terraform apply`
 
-2. Specified as S3 bucket
+2. Specified as S3 bucket backend
 ```tf
 terraform {
   backend "s3" {
@@ -102,9 +102,8 @@ terraform {
 }
 ```
 
-- `terraform init`
-- `terraform plan` answer no and do this:
-
+- `terraform init` answer yes
+- `terraform plan` answer no and do this to make no more terraform manage these:
 ```bash
 terraform state rm aws_dynamodb_table.terraform_lock
 terraform state rm aws_s3_bucket.terraform_state
