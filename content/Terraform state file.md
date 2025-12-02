@@ -5,7 +5,7 @@ tags:
   - terraform
 aliases:
 ---
-- **State file** (terraform.tfstate): stores about every resources and data object
+- **State file** (terraform.tfstate): json that stores about every resources and data object
 - contains sensitive info
 - can be stored locally or remotety
 
