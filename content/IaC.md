@@ -19,4 +19,8 @@ aliases:
 - should be **Repeatable**, **Reliable**, **Consistent**
 - ad hoc scripts ([[Bash]], [[Python]])
 - configuration management tools ([[Ansible]], [[Chef]], [[Puppet]])
-- server templating tools 
+- server templating tools ([[Terraform]])
+- orchestration tools ([[Kubernetes]])
+- provisioning tools
+
+- declar
