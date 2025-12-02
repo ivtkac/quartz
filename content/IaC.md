@@ -13,11 +13,10 @@ aliases:
 > [!tldr]
 > **IaC** is the way of defining computing and network infrastructure through source code.
 
-> [!info] Repeatable, Reliable, Consistent
 
 > [!warning] AVOID MANUAL CONFIGURATION ALWAYS
 
-
-- ad hoc scripts
-- configuration management tools
+- should be **Repeatable**, **Reliable**, **Consistent**
+- ad hoc scripts ([[Bash]], [[Python]])
+- configuration management tools ([[Ansible]], [[Chef]], [[Puppet]])
 - server templating tools 
