@@ -6,7 +6,8 @@ tags:
   - english
 aliases:
 ---
-- **Present Progressive** = **temporary** situation that are hapenning **now** or **around now**
+> [!info] **Present Progressive** = **temporary** situation that are hapenning **now** or **around now**
+
 
 > [!example] Form
 > - Affirmative: Subject + **am/is/are** + Verb + -ing
