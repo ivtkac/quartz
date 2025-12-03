@@ -19,4 +19,6 @@ aliases:
 > - **temporary situations**: Julie **is living** in Paris for a few months (usually she lives in London)
 > - **situations which are slowly chaning**: I'**m getting better** and better speaking English
 > - **temporary or new habits**: I'**m drinking** too much coffee these days because I'm so busy at work
-> - **annoying habits** (usually with *always*): My flatmate **is always leaving** the kitchen 
+> - **annoying habits** (usually with *always*): My flatmate **is always leaving** the kitchen in a mess!
+> - **define future plans**: I'**m meeting** John after class today.
+> - **to talk about people in pictures and photos**: In this photo, my mother **is walking** beside a lake.
