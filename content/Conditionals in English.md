@@ -24,7 +24,9 @@ lang:
 > [!warning] The **if** can usually replaced by **when** without changing the meaning.
 
 > [!example] Examples
-> 
+> - If you mix hydrogen and oxygen, you get water.
+> - I get 
+> If you feel tired you fall asleep.
 
 ## The first conditional
 
