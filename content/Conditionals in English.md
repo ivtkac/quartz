@@ -15,13 +15,16 @@ lang:
 
 ## Zero condition
 
-> [!example] Form
+> [!info] Form
 > - If + [[Present Simple]], ... present simple
 
 > [!question] When
 > - Used when the result will always happen
 
-> [!warning] 
+> [!warning] The **if** can usually replaced by **when** without changing the meaning.
+
+> [!example] Examples
+> 
 
 ## The first conditional
 
