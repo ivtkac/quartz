@@ -23,4 +23,4 @@ aliases:
 > - **process capabilities**: process should have enough [[Права доступу у Linux|permissions]] to manage/use kernel
 > - **virtual eth**: a process should have access to an ethernet device
 > - **port binding**: containers can expose the same ports, and it shouldn't cause any problem
-> - [[Volume Group]]
+> - **volumes**: a service should have the facility to keep data
