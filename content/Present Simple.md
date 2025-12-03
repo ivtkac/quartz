@@ -22,3 +22,4 @@ aliases:
 > - **future events which are part of a timetable**: My plane **leaves** at eight tonight
 > - **to talk about the future after certain words** (*when*, *until*, *after*, *before*, *as soon as*): I'll call you **when I get** home
 > - **to talk about what happens in books, plays, and films**: At the end of the book, the detective **catches** the killer.
+> - for the simple short actions that are happening now (they are finished as soon )
