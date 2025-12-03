@@ -18,7 +18,10 @@ aliases:
 - permanent situations (or nearly permanent, true for a few years at least)
 	- He **lives** in London
 - habits or things we do regularly (routines):
-	- 
+	- I **drink** coffee every morning
+- future events which are part of a timetable
+	- My plane **leaves** at eight tonight
+- to talk about the future after certain words (**when**, **until**, *)
 
 - **habits+routines**: Actions that happen regularly
 	- I **drink** coffee every morning
