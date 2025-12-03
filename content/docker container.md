@@ -11,8 +11,10 @@ aliases:
 
 > [!note] By default **container** is isolated from others containers and even host.
 
-Includes:
+> [!example] Includes:
+> - [[Файлова система|filesystem]] (some flavor of  Linux)
+> - any software installed on top of this filesystem
+> - additional runtime things like external volumes or ports
 
-- [[Файлова система|filesystem]] (some flavor of  Linux)
-- any software installed on top of this filesystem
-- additional runtime things like external volumes or ports
+> [!example] Docker provides:
+> - **[[прост**: a process 
