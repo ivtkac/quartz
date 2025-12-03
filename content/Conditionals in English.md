@@ -9,9 +9,10 @@ lang:
 ---
 
 > [!tldr]
-> **Conditional sentences** is sent
+> **Conditional sentences** is sentence which "if something happens, then there is this result".
 
 > [!tip] You can put **If** at the beginning, or in the middle. It doesn't change the meaning.
+
 ## Zero condition
 
 > [!example] Form
