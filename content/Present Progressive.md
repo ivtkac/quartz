@@ -16,4 +16,6 @@ aliases:
 
 > [!question] When to use?
 > - **things which are happening at the moment of speaking**: The water **is bolling** now.
-> - **temporary situations**: Julie **is living** in Paris for a few m
+> - **temporary situations**: Julie **is living** in Paris for a few months (usually she lives in London)
+> - **situations which are slowly chaning**: I'**m getting better** and better speaking English
+> - 
