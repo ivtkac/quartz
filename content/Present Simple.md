@@ -21,13 +21,7 @@ aliases:
 	- I **drink** coffee every morning
 - future events which are part of a timetable
 	- My plane **leaves** at eight tonight
-- to talk about the future after certain words (**when**, **until**, *)
-
-- **habits+routines**: Actions that happen regularly
-	- I **drink** coffee every morning
-- **general truths and facts**: Things that are always or generally true
-	- Water **bolls** at 100 C.
-- **Permanent situations/states**: long-term situations
-	- He **lives** in Rome
-- **Schedules and timetables**: fixed future
-	- The train **leaves** at 8:00 AM tomorrow
+- to talk about the future after certain words (**when**, **until**, **after**, **before**, **as soon as**)
+	- I'll call you **when I get** home
+- to talk about what happens in books, plays, and films:
+	- At the end of the book, the detective **catches** the killer.
