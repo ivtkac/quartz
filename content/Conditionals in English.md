@@ -13,3 +13,13 @@ lang:
 > If + [[Present Simple]], ... present simple
 
 ## The first conditional
+
+> [!example] Form
+> If + [[Present Simple]], ... will + infinitive
+
+## The second conditional
+
+> [!example] Form
+> If + [[Past Simple]], ... would + infinitive
+
+## The third conditin
