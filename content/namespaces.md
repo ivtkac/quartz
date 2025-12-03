@@ -17,6 +17,7 @@ description: Ізольований екземпляр ресурсів для �
 - **uts** = isolating kernel and version identifies
 - **ipc** = managing access to IPC resources
 - **pid** = process isolation
-- **net** = 
+- **net** = managing network interfaces
+- **user** namespace
 
 ![[linux namespaces.png]]
