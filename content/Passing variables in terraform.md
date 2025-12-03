@@ -6,4 +6,5 @@ tags:
 aliases:
 lang: eng
 ---
-- `TF_VAR`
+- [[змінні оточення|Environment variables]]: `TF_VAR_name_variable`
+- or `-var`, or `-var-file` options on the CLI
