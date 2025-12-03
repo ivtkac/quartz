@@ -6,7 +6,8 @@ tags:
   - english
 aliases:
 ---
-Some verbs describe a **state** rather than an **action**:
+- Some verbs describe a **state** rather than an **action**:
+- Some verbs can be stative and not simultaneously (e.g think, look, feel)
 
 > [!example]- Words
 > - like, love, hate, want, need, prefer, agree, mind, own, sound, hear, disagree, satisfy
@@ -14,7 +15,4 @@ Some verbs describe a **state** rather than an **action**:
 > - imagine, be, involve, measure (=have length etc), weight (=have weight)
 > - belong, fit, contain, consist, seem, depend, matter, see, look (=seem), smell, deny, impress, surprise, feel (=have an opinion), concern, have, include, possess.
 
-
 > [!warning] We can't use any continuous tense with **Stative Verbs**.
-
-Some verbs can be stative and not simultaneously.
