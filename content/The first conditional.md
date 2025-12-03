@@ -14,9 +14,11 @@ lang: eng
 > If + [[Present Simple]], ... will + infinitive
 
 > [!question] When?
-> - Describes a particular situation
+> - Things which might happen in the future
+> - Describes a particular situation (possibly situations)
 > - More specific then [[Zero conditional]]
 
 > [!example] Examples
 > - If you don't sleep enough tonight, you'll feel really bad tomorrow.
 > - If I pass the exam I'll get a new job
+> - If it rains, I won't go to 
