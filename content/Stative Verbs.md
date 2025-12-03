@@ -16,3 +16,5 @@ Some verbs describe a **state** rather than an **action**:
 
 
 > [!warning] We can't use any continuous tense with **Stative Verbs**.
+
+Some verbs can be stative and not simultaneously.
