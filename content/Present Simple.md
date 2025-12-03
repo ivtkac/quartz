@@ -13,6 +13,8 @@ aliases:
 > - Negative: subject + **do/does not** + base verb
 > - Question: **Do/does** + subject + base verb?
 
+- 
+
 - **habits+routines**: Actions that happen regularly
 	- I **drink** coffee every morning
 - **general truths and facts**: Things that are always or generally true
