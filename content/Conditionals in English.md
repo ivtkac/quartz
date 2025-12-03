@@ -7,3 +7,9 @@ tags:
 aliases:
 lang:
 ---
+## Zero condition
+
+> [!example] Form
+> If + [[Present Simple]], ... present simple
+
+## The first conditional

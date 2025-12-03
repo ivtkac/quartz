@@ -6,7 +6,7 @@ tags:
   - english
 aliases:
 ---
-- Some verbs describe a **state** rather than an **action** ([[Dynam]]):
+- Some verbs describe a **state** rather than an **action** ([[Dynamic verbs]]):
 - Some verbs can be stative and not simultaneously (e.g think, look, feel)
 
 > [!example]- Words
