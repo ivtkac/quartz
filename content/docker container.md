@@ -19,4 +19,6 @@ aliases:
 > [!example] Docker provides:
 > - **[[namespaces]]**: a process in the container shouldn't see other processes running and should be the only process in system
 > - **[[cgroups|control groups]]**: need for managing system resources
-> - [[chroot]]: a process in the container should see/use only 
+> - [[chroot]]: a process in the container should see/use only required parts of the filesystem
+> - **process capabilities**: process should have enough [[Права доступу у Linux|permissions]] to manage/use kernel
+> - 
