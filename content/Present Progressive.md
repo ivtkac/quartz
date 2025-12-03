@@ -21,4 +21,4 @@ aliases:
 	- We **are meeting** the client tomorrow.
 - **changing/developing situations**
 	- The climate **is getting** warmer.
-
+- don't confuse with [[Stative Verbs]]
