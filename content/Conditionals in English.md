@@ -15,21 +15,6 @@ lang:
 
 > [!example] Types of conditional
 > - [[Zero conditional]]
-## The first conditional
-
-> [!example] Form
-> If + [[Present Simple]], ... will + infinitive
-
-> [!question] When?
-> - Describes a particular situation
-> - More specific then [[Zero conditional]]
-
-> [!example] Examples
-> - If you don't sleep enough tonight, you'll feel really bad tomorrow.
-
-## The second conditional
-
-> [!example] Form
-> If + [[Past Simple]], ... would + infinitive
-
-[[The third condtional]]
+> - [[The first conditional]]
+> - [[The second conditional]]
+> - [[The third condtional]]
