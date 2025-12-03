@@ -9,7 +9,7 @@ aliases:
 - **Present Simple** = **permanent** or **regular** situations
 
 > [!example] Form 
-> - Affirmative: Subject + Base Verb (add **-s** for *he/she/it*)
+> -  Subject + Base Verb (add **-s** for *he/she/it*)
 > - Negative: subject + **do/does not** + base verb
 > - Question: **Do/does** + subject + base verb?
 
