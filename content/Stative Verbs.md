@@ -8,4 +8,5 @@ aliases:
 ---
 Some verbs describe a **state** rather than an **action**:
 
-- know, love, believe, need, seem 
+- know, love, believe, need, seem, have for possession, taste for inherit flavor etc
+	- these verbs are **rarely** used in [[Present Progressive]]
