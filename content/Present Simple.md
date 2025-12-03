@@ -25,4 +25,6 @@ aliases:
 > - **for the simple short actions that are happening now** (they are finished as soon as you've said it): He takes the ball, he runs down the wing, and he scores!
 
 > [!warning] Conditional Uses
-> Use the present simple in the **first** and **zero** [[Conditionals in English|conditionals]]
+> Use the present simple in the **first** and **zero** [[Conditionals in English|conditionals]].
+> - If it rains, we won't come
+> - If you heat water to 100 degrees, it boils.
