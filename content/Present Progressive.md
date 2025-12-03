@@ -14,3 +14,4 @@ aliases:
 	- I **am writing** an email right now.
 - temporary situations (actions that are not permanent or habitual)
 	- He **is staying** with his aunt this week.
+- future arrangements/plans: define 
