@@ -7,6 +7,8 @@ tags:
 aliases:
 lang:
 ---
+
+> [!tip] You can put **If** at the beginning, or in the middle. It doesn't change the meaning.
 ## Zero condition
 
 > [!example] Form
@@ -22,4 +24,7 @@ lang:
 > [!example] Form
 > If + [[Past Simple]], ... would + infinitive
 
-## The third conditin
+## The third conditional
+
+> [!example] Form
+> If + [[Past Perfect]], ... would + have + past participle
