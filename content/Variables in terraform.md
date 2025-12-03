@@ -8,7 +8,12 @@ lang: eng
 ---
 ## Define variables
 
-``
+```terraform
+variable "name" {
+	type = "type"
+	default = "default value"
+}
+```
 
 ## Passing variables
 
