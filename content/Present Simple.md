@@ -13,7 +13,12 @@ aliases:
 > - Negative: subject + **do/does not** + base verb
 > - Question: **Do/does** + subject + base verb?
 
-- 
+- things which are always true
+	- Water **boils** at 100 degrees.
+- permanent situations (or nearly permanent, true for a few years at least)
+	- He **lives** in London
+- habits or things we do regularly (routines):
+	- 
 
 - **habits+routines**: Actions that happen regularly
 	- I **drink** coffee every morning
