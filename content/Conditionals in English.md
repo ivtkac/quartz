@@ -26,6 +26,7 @@ lang:
 > [!example] Examples
 > - If you mix hydrogen and oxygen, you get water.
 > - I get grumpy If I'm hungry
+> - If babies 
 
 ## The first conditional
 
@@ -33,10 +34,10 @@ lang:
 > If + [[Present Simple]], ... will + infinitive
 
 > [!question] When?
-> - Describes 
+> - Describes a particular situation
 
 > [!example] Examples
-> - used in the continuous it means 'behaving' or 'acting'
+> If you don't sleep enough tonight, you'll feel really bad tomorrow.
 
 ## The second conditional
 
