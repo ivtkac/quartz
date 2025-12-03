@@ -21,4 +21,6 @@ lang: eng
 > [!example] Examples
 > - If you don't sleep enough tonight, you'll feel really bad tomorrow.
 > - If I pass the exam I'll get a new job
-> - If it rains, I won't go to 
+> - If it rains, I won't go to the park
+> - If I practice English more, I'll get a better job
+> - If I have enough money, I'll buy some new shoes
