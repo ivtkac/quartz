@@ -17,4 +17,5 @@ aliases:
 > - additional runtime things like external volumes or ports
 
 > [!example] Docker provides:
-> - **[[прост**: a process 
+> - **[[namespaces]]**: a process in the container shouldn't see other processes running and should be the only process in system
+> - 
