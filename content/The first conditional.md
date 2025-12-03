@@ -5,9 +5,10 @@ tags:
   - languages
   - english
 aliases:
+  - Future real conditional
 lang: eng
 ---
-> [!note]
+> [!note] Also called **future real conditional**
 
 > [!example] Form
 > If + [[Present Simple]], ... will + infinitive
@@ -18,3 +19,4 @@ lang: eng
 
 > [!example] Examples
 > - If you don't sleep enough tonight, you'll feel really bad tomorrow.
+> - If I pass the exam I'll get a new job
