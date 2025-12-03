@@ -20,7 +20,7 @@ aliases:
 > - **situations which are slowly chaning**: I'**m getting better** and better speaking English
 > - **temporary or new habits (for normal long-term habits use [[Present Simple]])**: I'**m drinking** too much coffee these days because I'm so busy at work
 > - **annoying habits** or **not regular, but happen often** (usually with *always*, *forever*, *constantly*): You'**re** forever **losing** your keys!
-> - **define future arrangments/plans**: I'**m meeting** John after class today.
+> - **define future arrangments/plans** (with a future time word): I'**m meeting** John after class today. I'm meeting my mother tomorrow.
 > - **to talk about people in pictures and photos**: In this photo, my mother **is walking** beside a lake.
 
 > [!warning] We can't use this tense (or any other continuous) with [[Stative Verbs]].
