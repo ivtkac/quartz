@@ -22,5 +22,6 @@ Some verbs can be both stative and dynamic:
 - **see**
 	- see (stative) = see  with your eyes / understand: I see what you mean
 	- see (dynamic) = meet / have a relationship with: I've been seeing my boyfriend for three years
-- **taste**
-	- taste (stative) = has a
+- **taste** (same as 'smell')
+	- taste (stative) = has a certain taste: This soup tastes great
+	- taste (dynamic) = the action of tasting: The chef is tasting soup
