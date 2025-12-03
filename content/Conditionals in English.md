@@ -8,6 +8,9 @@ aliases:
 lang:
 ---
 
+> [!tldr]
+> **Conditional sentences** is sent
+
 > [!tip] You can put **If** at the beginning, or in the middle. It doesn't change the meaning.
 ## Zero condition
 
