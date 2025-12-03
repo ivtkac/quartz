@@ -15,4 +15,4 @@ Includes:
 
 - [[Файлова система|filesystem]] (some flavor of  Linux)
 - any software installed on top of this filesystem
-- additional runtime things 
+- additional runtime things like external volumes or ports
