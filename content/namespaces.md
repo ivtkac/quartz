@@ -13,4 +13,10 @@ description: Ізольований екземпляр ресурсів для �
 
 > [!note] Зміни в глобальному ресурсі видимі для процесів, які є членами простору імен, але невидимі для інших просторів імен.
 
+- **mnt** = managing mount points
+- **uts** = isolating kernel and version identifies
+- **ipc** = managing access to IPC resources
+- **pid** = process isolation
+- **net** = 
+
 ![[linux namespaces.png]]
