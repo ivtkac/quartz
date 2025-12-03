@@ -13,21 +13,8 @@ lang:
 
 > [!tip] You can put **If** at the beginning, or in the middle. It doesn't change the meaning.
 
-## Zero condition
-
-> [!info] Form
-> - If + [[Present Simple]], ... present simple
-
-> [!question] When
-> - Describes what happens in general or when the result will always happen
-
-> [!warning] The **if** can usually replaced by **when** without changing the meaning.
-
-> [!example] Examples
-> - If you mix hydrogen and oxygen, you get water.
-> - I get grumpy If I'm hungry
-> - If babies 
-
+> [!example] Types of conditional
+> - [[Zero conditional]]
 ## The first conditional
 
 > [!example] Form
@@ -35,16 +22,14 @@ lang:
 
 > [!question] When?
 > - Describes a particular situation
+> - More specific then [[Zero conditional]]
 
 > [!example] Examples
-> If you don't sleep enough tonight, you'll feel really bad tomorrow.
+> - If you don't sleep enough tonight, you'll feel really bad tomorrow.
 
 ## The second conditional
 
 > [!example] Form
 > If + [[Past Simple]], ... would + infinitive
 
-## The third conditional
-
-> [!example] Form
-> If + [[Past Perfect]], ... would + have + past participle
+[[The third condtional]]
