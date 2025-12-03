@@ -16,7 +16,12 @@ lang:
 ## Zero condition
 
 > [!example] Form
-> If + [[Present Simple]], ... present simple
+> - If + [[Present Simple]], ... present simple
+
+> [!question] When
+> - Used when the result will always happen
+
+> [!warning] 
 
 ## The first conditional
 
