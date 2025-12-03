@@ -7,10 +7,12 @@ tags:
 aliases:
 ---
 - **Present Simple** = **permanent** or **regular** situations
-- **Form**: 
-	- Affirmative: Subject + Base Verb (add **-s** for *he/she/it*)
-	- Negative: subject + **do/does not** + base verb
-	- Question: **Do/does** + subject + base verb?
+
+> [!example] Form 
+> - Affirmative: Subject + Base Verb (add **-s** for *he/she/it*)
+> - Negative: subject + **do/does not** + base verb
+> - Question: **Do/does** + subject + base verb?
+
 - **habits+routines**: Actions that happen regularly
 	- I **drink** coffee every morning
 - **general truths and facts**: Things that are always or generally true

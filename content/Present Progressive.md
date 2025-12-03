@@ -7,4 +7,8 @@ tags:
 aliases:
 ---
 - **Present Progressive** = **temporary** situation that are hapenning **now** or **around now**
-- **actions happening at the moment
+
+> [!example] Form
+
+- actions happening at the moment of speaking
+- temporary situations
