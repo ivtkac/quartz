@@ -19,4 +19,8 @@ Some verbs can be both stative and dynamic:
 - **have**
 	- have (stative) = own: I have a car
 	- have (dynamic) = part of an expression: I'm having a party / a picnic / a good  time / a break
-- 
+- **see**
+	- see (stative) = see  with your eyes / understand: I see what you mean
+	- see (dynamic) = meet / have a relationship with: I've been seeing my boyfriend for three years
+- **taste**
+	- taste (stative) = has a
