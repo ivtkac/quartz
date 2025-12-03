@@ -7,4 +7,5 @@ aliases:
 lang: eng
 ---
 - [[змінні оточення|Environment variables]]: `TF_VAR_name_variable`
-- or `-var`, or `-var-file` options on the CLI
+- or `-var=<VAR_NAME>=<VALUE>`, or `-var-file` options on the CLI
+- variable definition files (`.tfvars` or `.auto.tfvars`)
