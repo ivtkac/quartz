@@ -8,5 +8,6 @@ tags:
 aliases:
   - Authentication Header
 default port: 51
+lang: uk
 ---
 - надає тільки [[аутентифікація|аутентифікацію]] без [[шифрування]]
