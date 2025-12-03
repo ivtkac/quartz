@@ -14,4 +14,9 @@ Some verbs can be both stative and dynamic:
 	- you are stupid = it's part of personality
 	- you are being stupid = only now, not usually
 - **think**
-	- think (stative) = have an opinion: I think that cof
+	- think (stative) = have an opinion: I think that coffee is great
+	- think (dynamic) = consider, have in my head: What are you thinking about?
+- **have**
+	- have (stative) = own: I have a car
+	- have (dynamic) = part of an expression: I'm having a party / a picnic / a good  time / a break
+- 
