@@ -19,19 +19,24 @@ lang:
 > - If + [[Present Simple]], ... present simple
 
 > [!question] When
-> - Used when the result will always happen
+> - Describes what happens in general or when the result will always happen
 
 > [!warning] The **if** can usually replaced by **when** without changing the meaning.
 
 > [!example] Examples
 > - If you mix hydrogen and oxygen, you get water.
-> - I get 
-> If you feel tired you fall asleep.
+> - I get grumpy If I'm hungry
 
 ## The first conditional
 
 > [!example] Form
 > If + [[Present Simple]], ... will + infinitive
+
+> [!question] When?
+> - Describes 
+
+> [!example] Examples
+> - used in the continuous it means 'behaving' or 'acting'
 
 ## The second conditional
 
