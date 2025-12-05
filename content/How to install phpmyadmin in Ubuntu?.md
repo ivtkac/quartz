@@ -2,6 +2,10 @@
 title: How to install phpmyadmin in Ubuntu?
 created: 2025-12-05
 tags:
+  - 🦮how-to
+  - ubuntu
+  - phpmyadmin
+  - mysql
 aliases:
 lang:
 url: https://hostman.com/tutorials/how-to-install-phpmyadmin-on-ubuntu/
