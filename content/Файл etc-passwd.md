@@ -9,7 +9,8 @@ aliases:
   - /etc/passwd
 description: Облікові записи користувачів
 ---
-> [!info] Формат: `username:x:1000:1000:User Name:/home/username:/bin/bash`
+> [!info] /etc/passwd
+> Формат: `username:x:1000:1000:User Name:/home/username:/bin/bash`
 
 - `username`: ім'я користувача
 - `x`: історично зберігався пароль (зараз хеши у `/etc/shadow`)

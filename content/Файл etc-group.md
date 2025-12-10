@@ -9,7 +9,8 @@ aliases:
   - /etc/group
 description: Групи користувачів
 ---
-> [!info]  Формат: `groupname:x:1000:user1,user2`
+> [!info]  /etc/group
+> Формат: `groupname:x:1000:user1,user2`
 
 - `groupname`: ім'я групи
 - `x`: історично зберігався пароль (тепер у `/etc/gshadow`)

@@ -5,6 +5,7 @@ tags:
   - sql
   - rules
 aliases:
+  - INNER JOIN
 ---
 **JOIN** операція дозволяє об'єднувати дані з двох або більше [[Таблиця|таблиць]] на основі зв'язків між ними.
 
@@ -12,3 +13,5 @@ aliases:
 SELEECT a.cols, B.cols FROM A
 JOIN B ON A.col = B.col;
 ```
+
+> [!note] **JOIN** = **INNER JOIN** usually

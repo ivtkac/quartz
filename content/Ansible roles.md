@@ -13,7 +13,7 @@ aliases:
 ```yaml
 - hosts: workstations
   tasks:
-    - name: Include Powershell roll
+    - name: Include Powershell role
       include_role:
           name: powershell
 ```

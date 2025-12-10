@@ -6,6 +6,6 @@ tags:
   - dns
 aliases:
 ---
-- Перетворює [www.example.com](http://www.example.com) на IP-адреса
+- Перетворює [www.example.com](http://www.example.com) на [[IP]]-адреса
 - Перетворює IP на доменне ім'я
 - Зручна взаємодія з мережевими ресурсами

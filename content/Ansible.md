@@ -21,8 +21,9 @@ Ansible непотребує встановлення додаткових па�
 
 ## Основні компоненти
 
-- [[Ansible inventory|Інвенторії]]
-- [[ansible playbook|Плейбуки]]
-- [[Ansible tasks|Завдання]]
-- [[Ansible handlers|Хендлери]]
-- [[Ansible roles|Ролі]]
+> [!example] Основні компоненти
+> - [[Ansible inventory|Інвенторії]]
+> - [[ansible playbook|Плейбуки]]
+> - [[Ansible tasks|Завдання]]
+> - [[Ansible handlers|Хендлери]]
+> - [[Ansible roles|Ролі]]

@@ -10,7 +10,6 @@ aliases:
 ---
 
 FILES:
-
 - [[Файл etc-hosts|/etc/hosts]]
 	- Local DNS
 - [[Файл etc nsswitch.conf|/etc/nsswitch.conf]]

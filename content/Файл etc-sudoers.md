@@ -9,6 +9,8 @@ aliases:
   - /etc/sudoers
 description: Повноваження користувачів
 ---
+> [!info] /etc/sudoers
+> Налаштування повноважень користувачів. ([[sudo]])
 
 > [!warning] Редагувати тільки черезе `visudo`
  

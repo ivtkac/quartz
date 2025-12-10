@@ -9,7 +9,8 @@ aliases:
   - /etc/shadow
 description: Зберігає паролі користувачів
 ---
-> [!info] Формат: `username:$6$salt$hash:19000:0:99999:7:::`
+> [!info] /etc/shadow
+> Формат: `username:$6$salt$hash:19000:0:99999:7:::`
 
 -  `username`: ім'я користувача
 - `$6$salt$hash` — хешований пароль

@@ -7,7 +7,8 @@ tags:
 aliases:
   - CIDR notation
 ---
-**Нотація CIDR (Classes Inter-Domain Routing)** поєднує [[IP]]-адресу та [[маска підмережі|маску підмережі]].
+> [!tldr]
+> **Нотація CIDR (Classes Inter-Domain Routing)** поєднує [[IP]]-адресу та [[маска підмережі|маску підмережі]].
 
 > [!example]
 > `192.168.1.0/24` означає:
