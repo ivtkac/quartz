@@ -5,6 +5,7 @@ tags:
   - git
   - tips
 aliases:
+  - never use git commit -m, use git commit -v
 lang: uk
 ---
 > [!warning] `git commit` відкриває редактор з зі змінними `$EDITOR` або з конфігурації гіта.
