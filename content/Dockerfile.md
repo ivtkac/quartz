@@ -16,6 +16,15 @@ doc: https://docs.docker.com/reference/dockerfile/
 > 4. Set up execution environment
 > 5. Run application
 
+## Directives
+
+- The **FROM** directive defines the base image.
+- The **WORKDIR** directive defines the working directory.
+- The **RUN** directive installs the Flask framework into the image.
+- The **ADD** directive copies the file into the image.
+- The **EXPOSE** directive defines the external exposed port.
+- The **CMD** directive defined command for start container.
+
 ## Bad dockerfile
 
 ```dockerfile
