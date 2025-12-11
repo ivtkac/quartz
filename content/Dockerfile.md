@@ -16,14 +16,23 @@ doc: https://docs.docker.com/reference/dockerfile/
 > 4. Set up execution environment
 > 5. Run application
 
-## Directives
+## Commands
 
-- The **FROM** directive defines the base image.
-- The **WORKDIR** directive defines the working directory.
-- The **RUN** directive installs the Flask framework into the image.
-- The **ADD** directive copies the file into the image.
-- The **EXPOSE** directive defines the external exposed port.
-- The **CMD** directive defined command for start container.
+- **RUN** allows you to execute any commands in a new layer on top of the current image and commit the results.
+- **CMD** provides defaults for a container that is being executed.
+- **EXPOSE** informs Docker that the container connects to the specified network ports at runtime. Please note that the command does not make any ports accessible.
+- **ENV** sets the environment variable.
+- **ADD** copies new files, directories or a remote file to the container. It invalidates caches.
+- **COPY** copies new files or directories to the container.
+- **ENTRYPOINT** configures a container that will run as an executable.
+- **VOLUME** creates a mount point for externally mounted volumes or other containers.
+- **USER** sets the username for the following RUN / CMD / ENTRYPOINT commands.
+- **WORKDIR** sets the working directory.
+- **ARG** defines a build-time variable.
+- **ONBUILD** adds a trigger instruction when the image is used as the base for another build.
+- **STOPSIGNAL** sets the system call signal that will be sent to the container to exit
+- **LABEL** applies key/value metadata to your images, containers or daemons
+
 
 ## Bad dockerfile
 
