@@ -3,7 +3,7 @@ created: 2025-11-21
 title: Evolution of virtualization
 tags:
   - history
-  - virtualiation
+  - virtualization
   - containerzation
 aliases:
 ---
