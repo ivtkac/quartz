@@ -8,3 +8,6 @@ tags:
 aliases:
 lang:
 ---
+```bash
+sudo mdadm --create --verbose /dev/md1 --level=1 --raid-devices=2
+```
