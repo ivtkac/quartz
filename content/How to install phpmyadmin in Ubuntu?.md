@@ -34,5 +34,3 @@ sudo mv phpMyAdmin-5.2.1-english /usr/share/phpmyadmin
 ```
 ln -s /usr/share/phpmyadmin /var/www/html
 ```
-
-https://hostman.com/tutorials/how-to-install-phpmyadmin-on-ubuntu/
