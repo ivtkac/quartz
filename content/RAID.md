@@ -13,9 +13,6 @@ url: https://www.youtube.com/watch?v=Eoaok8mG1vw
 
 RAID  devices are virtual devices created from two or more real block devices. This allows multiple devices (typically disk drives or partitions thereof)  to be  combined  into  a single device to hold (for example) a single [[Файлова система|filesystem]]. Some RAID levels include redundancy and so can survive some degree  of  device failure.
 
-> [!note]
-> **RAID1** gives you real-time mirrored copying, which means the system can keep running if one of the drives fails. **RAID0**, on the other hand, is for speed in reading and writing but doesn't provide any fault tolerance.
-
 ## Terminology
 
 - **Striping** = in multiple devices but represent in logical single drive
