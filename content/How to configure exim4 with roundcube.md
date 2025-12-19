@@ -94,3 +94,11 @@ service auth {
 	...
 }
 ```
+
+## Troubleshooting
+
+https://wiki.debian.org/PkgExim4UserFAQ#I_get_the_error_.22Mailing_to_remote_domains_not_supported.22
+
+## Cheatsheet
+
+https://bradthemad.org/tech/notes/exim_cheatsheet.php
