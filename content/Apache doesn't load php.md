@@ -1,7 +1,9 @@
 ---
-title: "Apache doesn't load php"
-created: "2025-12-24"
+title: Apache doesn't load php
+created: 2025-12-24
 tags:
+  - apache
+  - troubleshooting
 aliases:
 lang:
 ---

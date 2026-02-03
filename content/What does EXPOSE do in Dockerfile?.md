@@ -5,6 +5,5 @@ tags:
   - question
   - docker
 aliases:
-lang:
 ---
 it tells [[Docker]] the container uses this [[Порт|Port]].

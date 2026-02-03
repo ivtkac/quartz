@@ -6,9 +6,9 @@ tags:
   - tips
 aliases:
   - never use git commit -m, use git commit -v
-lang: uk
 ---
-> [!warning] `git commit` відкриває редактор з зі змінними `$EDITOR` або з конфігурації гіта.
+> [!warning] 
+> `git commit` відкриває редактор з зі змінними `$EDITOR` або з конфігурації гіта.
 
 За допомогою `git commit -v` можна бачити різницю комітів ([[git diff]]) під час написання повідомлення коміту.
 

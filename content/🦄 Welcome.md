@@ -7,8 +7,7 @@ aliases:
 ---
 > [!info] абоба...
 
-> [!example] Теми
+> [!example] Linux & Networking Адміністрування
 > - [[🐧 Linux]]
 > - [[Мережа]]
 > - [[СКБД]]
-> - [[DevOps]]

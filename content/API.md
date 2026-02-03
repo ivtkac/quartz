@@ -9,22 +9,22 @@ aliases:
 lang:
 ---
 > [!tldr]
-> **API** (Application Programming Interface) defines how software components should interact.
+> **API** (Application Programming Interface) визначає, як повинні взаємодіяти компоненти програмного забезпечення.
 
-A contract that defines:
+Контракт, який визначає: 
 
-- what requests can be made
-- how  tot make them
-- what responses to expect
+- які запити можна робити 
+- як їх робити 
+- яких відповідей очікувати
 
-Keys:
-
-- [[Abstraction mechanism]]
+Реалізація: 
+- [[Абстракція]]
 - [[Service boundaries]]
 
-## Key Design Principles
 
-- consistency: consistent naming, consistent patterns
-- simplicity: focus on core use cases, intuitive design
-- security: authentication, authorization, input validation, rate limiting
-- performance: caching strategies, pagination, minimize payloads, reduce round trips
+## Принципи проектування
+
+- **узгодженість**: узгоджене найменування, узгоджені шаблони
+- **простота**: зосередженість на основних випадках використання, інтуїтивно зрозумілий дизайн
+- **безпека**: автентифікація, авторизація, перевірка вводу, обмеження швидкості 
+- **продуктивність**: стратегії кешування, пагінація, мінімізація корисного навантаження, зменшення кількості циклів
