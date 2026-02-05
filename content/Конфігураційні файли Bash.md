@@ -6,6 +6,8 @@ tags:
   - bash
 aliases:
   - Config bash
+links:
+  - "[[Bash]]"
 ---
 ```
 FILES

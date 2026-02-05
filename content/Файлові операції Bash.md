@@ -5,6 +5,8 @@ tags:
   - scripting
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 - `-e` — файл існує
 - `-f` — перевірка на звичайний файл

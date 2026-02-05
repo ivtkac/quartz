@@ -6,6 +6,8 @@ tags:
   - apache
 aliases:
   - How to set up password authentication in Apache?
+links:
+  - "[[htpasswd]]"
 ---
 ```bash
 htpassswd -cb /etc/httpd/.htpasswd "$HTTPD_USER" "$HTTPD_PASSS"

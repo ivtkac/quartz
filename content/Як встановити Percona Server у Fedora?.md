@@ -7,6 +7,9 @@ tags:
   - fedora
 aliases:
   - How to install Percona Server in Fedora?
+links:
+  - "[[Fedora]]"
+  - "[[Percona Server]]"
 ---
 1. Встановити Percona repository:
 

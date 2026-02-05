@@ -6,6 +6,9 @@ tags:
   - ubuntu
   - phppgadmin
 aliases:
+links:
+  - "[[phppgadmin]]"
+  - "[[Ubuntu]]"
 ---
 ```bash
 apt install php8.3-pgsql

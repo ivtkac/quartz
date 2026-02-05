@@ -5,6 +5,8 @@ tags:
   - scripting
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 
 | Код     | Опис                                       | Приклад                   | Коментарі                                                           |

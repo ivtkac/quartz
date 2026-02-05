@@ -6,6 +6,8 @@ tags:
   - bash
 aliases:
   - Default environment variables in Bash
+links:
+  - "[[Bash]]"
 ---
 - `RANDOM` — [[bash builtins|вбудована]] [[Функції у Bash|функція]] (не константа) яка повертає ціле [[псевдочисло]] у діапазоні $0-32767$
 - `DISPLAY` — назва дисплея, якщо використовується [[gui]]

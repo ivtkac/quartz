@@ -7,6 +7,9 @@ tags:
   - postgresql
 aliases:
 lang:
+links:
+  - "[[PostgreSQL]]"
+  - "[[Ubuntu]]"
 ---
 ```bash
 apt install postgresql postgresql-contrib -y

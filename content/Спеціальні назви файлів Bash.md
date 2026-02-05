@@ -5,6 +5,8 @@ tags:
   - scripting
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 - `/dev/fd/<fd>` — якщо `fd` це ціле число, [[Файловий дескриптор]] `fd` дубльований
 - `/dev/stdin` — файловий дескриптор 0

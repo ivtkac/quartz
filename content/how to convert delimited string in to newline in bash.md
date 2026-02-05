@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 > [!example] Конвертувати CSV в окремі рядки
 > ```bash

@@ -7,6 +7,8 @@ tags:
 aliases:
   - Position parameters
   - Special shell variables
+links:
+  - "[[Bash]]"
 ---
 - `$0` — ім'я скрипту
 - `$1, $2, ...` — позиційні параметри

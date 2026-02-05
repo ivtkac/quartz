@@ -14,7 +14,7 @@ aliases:
 > [!example] Options
 > - `-d` —  run as background
 > - `--entrypoint` — override entrypoint
-> - `--env`, `-e`, `--env-file` —  pass [[змінні оточення|Environment variables]]
+> - `--env`, `-e`, `--env-file` —  pass [[Змінні оточення|Environment variables]]
 > - `--init` — spawn process as subprocess  (if app manage subprocesses itself)
 > - `--interactive`, `-i`, `--tty`, `-t` — run tty session
 > - `--mount`, `--volume`, `-v` — volume

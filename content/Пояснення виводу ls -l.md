@@ -4,6 +4,8 @@ title: Пояснення виводу ls -l
 tags:
   - explainme
 aliases:
+links:
+  - "[[ls]]"
 ---
 
 ```bash

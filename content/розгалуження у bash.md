@@ -7,6 +7,8 @@ tags:
 aliases:
   - if statements in bash
   - conditions in bash
+links:
+  - "[[Bash]]"
 ---
 - базовий if
 

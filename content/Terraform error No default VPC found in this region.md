@@ -6,6 +6,9 @@ tags:
   - troubleshooting
   - error
 aliases:
+links:
+  - "[[Terraform]]"
+  - "[[AWS]]"
 ---
 ```bash
 aws ec2 create-default-vpc

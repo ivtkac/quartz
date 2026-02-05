@@ -5,7 +5,6 @@ tags:
   - programming
   - javascript
 aliases:
-lang:
 ---
 Усі сутності у [[Javascript]] є **[[Object|об'єктами]]**
 

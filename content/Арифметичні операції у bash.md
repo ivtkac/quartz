@@ -3,6 +3,8 @@ created: 2025-11-15
 title: Арифметичні операції у bash
 tags:
 aliases:
+links:
+  - "[[Bash]]"
 ---
 > [!info] Способи виконання арифметики:
 > 

@@ -6,6 +6,9 @@ tags:
   - php
   - 🦮how-to
 aliases:
+links:
+  - "[[Php]]"
+  - "[[Ubuntu]]"
 ---
 - Remove existed apache (if available)
 ```bash

@@ -7,6 +7,9 @@ tags:
   - aws
   - config
 aliases:
+links:
+  - "[[AWS S3]]"
+  - "[[Terraform]]"
 ---
 > [!warning] Before run backend we need create [[AWS S3|S3]] bucket and [[Dynamodb|dynamo db]]
 

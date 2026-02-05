@@ -7,6 +7,8 @@ tags:
 aliases:
   - IFS
 description: Розділювач полів
+links:
+  - "[[Bash]]"
 ---
 > [!tldr]
 > **IFS (Internal Fields Separator)** — [[Змінні у Bash|змінна]], яка визначає символи для розділення полів.

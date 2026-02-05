@@ -7,6 +7,9 @@ tags:
   - ftp
 aliases:
 lang:
+links:
+  - "[[proFTPD]]"
+  - "[[Ubuntu]]"
 ---
 ```bash
 apt install proftpd

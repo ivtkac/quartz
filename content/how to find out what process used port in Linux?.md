@@ -7,6 +7,9 @@ tags:
   - OS/Linux
   - network
 aliases:
+links:
+  - "[[ss]]"
+  - "[[lsof]]"
 ---
 ```bash
 sudo lsof -i :port

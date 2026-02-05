@@ -5,6 +5,8 @@ tags:
   - scripting
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 
 - `#` — [[Коментарі у bash|коментар]]
@@ -20,9 +22,9 @@ aliases:
 - \`\` — інтепретація виразу всередині як команди
 - `:`  — [[null]]-команда
 - `!` — інвертує [[exit status]]
-- `*` — астерікс ([[wildcards у bash]]) для розширення файлів у [[globbing in bash]]
+- `*` — астерікс ([[Wildcards у bash]]) для розширення файлів у [[globbing in bash]]
 - `*` — [[Арифметичні операції у bash|арифметична операція]]
-- `?` — test оператор або [[wildcards у bash|wildcard]]
+- `?` — test оператор або [[Wildcards у bash|wildcard]]
 - `$` — [[Змінні у bash]]
 - `()` — групування команд
 - [[Позиційні параметри у bash]]

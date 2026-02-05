@@ -4,6 +4,8 @@ title: Functions in JavaScript
 tags:
   - javascript
 aliases:
+links:
+  - "[[Javascript]]"
 ---
 Functions are defined with `function myname(variable) {}`.
 ## Arrow functions

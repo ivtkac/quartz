@@ -6,6 +6,8 @@ tags:
   - OS/Linux
   - network
 aliases:
+links:
+  - "[[ip command]]"
 ---
 ```bash
 ip -c r # або ip route list

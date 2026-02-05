@@ -6,6 +6,9 @@ tags:
   - OS/Linux
 aliases:
   - How to check available shells in Linux?
+links:
+  - "[[cat]]"
+  - "[[Оболонка]]"
 ---
 
 ```bash

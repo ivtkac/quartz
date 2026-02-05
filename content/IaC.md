@@ -6,6 +6,8 @@ tags:
   - devops
 aliases:
   - Infrastructure as Code
+links:
+  - "[[Що таке IAC?]]"
 ---
 > [!question]- FAQ
 > - [[Why do you need IaC?]]

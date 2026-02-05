@@ -7,6 +7,7 @@ tags:
 aliases:
 links:
   - "[[Swap]]"
+  - "[[free]]"
 ---
 ```bash
 $ cat /proc/swaps

@@ -7,8 +7,10 @@ tags:
   - phpmyadmin
   - mysql
 aliases:
-lang:
 url: https://hostman.com/tutorials/how-to-install-phpmyadmin-on-ubuntu/
+links:
+  - "[[phpmyadmin]]"
+  - "[[Ubuntu]]"
 ---
 ```
 sudo apt install php8.3-fpm php8.3-mysql -y

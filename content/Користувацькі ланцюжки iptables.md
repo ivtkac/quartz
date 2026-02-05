@@ -5,6 +5,8 @@ tags:
   - iptables
 aliases:
   - User chains iptables
+links:
+  - "[[iptables]]"
 ---
 > [!tldr]
 > **Користувацькі ланцюжки** — створювані користувачем [[Ланцюжки iptables|ланцюжки]] для організації і оптимізації [[Правила iptables|правил]].

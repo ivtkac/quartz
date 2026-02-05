@@ -6,6 +6,8 @@ tags:
   - firewall
   - iptables
 aliases:
+links:
+  - "[[iptables]]"
 ---
 > [!tldr]
 > **Правила** поєднують умови і дії для обробки пакетів.

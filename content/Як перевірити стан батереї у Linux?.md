@@ -6,6 +6,8 @@ tags:
   - OS/Linux
 aliases:
   - How to check battery status in Linux?
+links:
+  - "[[upower]]"
 ---
 
 ```bash

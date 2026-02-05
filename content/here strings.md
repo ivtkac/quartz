@@ -4,6 +4,8 @@ title: here strings
 tags:
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 ```bash
 COMMAND <<< $WORD

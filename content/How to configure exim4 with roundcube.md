@@ -8,6 +8,9 @@ tags:
   - roundcube
 aliases:
 lang:
+links:
+  - "[[exim4]]"
+  - "[[Roundcube]]"
 ---
 https://wafaicloud.com/blog/setting-up-exim-for-your-linux-mail-server/
 

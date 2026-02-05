@@ -5,6 +5,9 @@ tags:
   - 🦮how-to
   - sqlite
 aliases:
+links:
+  - "[[sqlite3]]"
+  - "[[SQLite]]"
 ---
 ```bash
 sqlite3 <path>/<file>.db

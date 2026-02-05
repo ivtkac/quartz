@@ -7,6 +7,9 @@ tags:
   - apache
   - proxy-server
 aliases:
+links:
+  - "[[nginx]]"
+  - "[[Apache HTTP Server]]"
 ---
 ```bash
 apt update apache2 nginx

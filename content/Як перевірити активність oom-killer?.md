@@ -6,6 +6,8 @@ tags:
   - process
   - troubleshooting
 aliases:
+links:
+  - "[[dmesg]]"
 ---
 ```bash
 dmesg | grep killed
