@@ -7,5 +7,7 @@ tags:
   - text-processing
 aliases:
 description: Відобразити останні рядки файлу
+links:
+  - "[[man]]"
 ---
 > [!info] Відобразити останні рядки файлу

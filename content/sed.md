@@ -8,6 +8,8 @@ tags:
 aliases:
 doc: https://www.gnu.org/software/sed/manual/sed.html
 description: Модифікувати текст файлу
+links:
+  - "[[man]]"
 ---
 > [!tldr] 
 > **sed** (Stream Editor) — потоковий редактор фільтрації та модифікації тексту з файлів або стандартного виводу.

@@ -7,5 +7,7 @@ tags:
   - automation
 aliases:
 description: Видалити псевдонім
+links:
+  - "[[man]]"
 ---
 > [!info] Видаляє псевдонім

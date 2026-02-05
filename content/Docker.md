@@ -2,23 +2,22 @@
 created: 2025-11-22
 title: docker
 tags:
-  - man
   - docker
 aliases:
 ---
 > [!tldr]
-> **Docker** is an open platform for developing, shipping, and running applications.
+> **Docker** — це відкрита платформа для розробки, доставки та запуску програм.
 
-**Docker** allows you to separate your applications from your infrastructure so you can [[Continuous delivery|deliver software quickly]]. With **Docker**, you can manage your infrastructure in the same ways you manage your applications.
+**Docker** дозволяє вам відокремити ваші програми від інфраструктури, щоб ви могли [[CD|швидко доставляти програмне забезпечення]]. За допомогою **Docker** ви можете керувати своєю інфраструктурою так само, як ви керуєте своїми програмами.
 
-## Architecture
+## Архітектура
 
-Docker architecture is a [[Client-Server architecture]]:
+Архітектура Docker — це [[Клієнт-серверна архітектура]]:
 
-1. docker commands are run via CLI Docker tool.
-2. the [[Docker Client]] communicates with [[Docker daemon|daemon]] using [[REST API]] over a UNIX [[сокет|socket]] or network interface.
-3. The daemon does the work on building, running and distributing containers outside docker client
-4. The daemon goes to the [[Docker Registry]] to get the needed image.
+1. Команди Docker виконуються через інструмент CLI Docker.
+2. [[Docker Client]]] взаємодіє з [[Docker daemon|демоном]] за допомогою [[REST API]] через [[сокет]] UNIX або мережевий інтерфейс.
+3. Демон виконує роботу зі створення, запуску та розповсюдження контейнерів поза клієнтом Docker.
+4. Демон звертається до [[Реєстр Docker|реєстру Docker]], щоб отримати потрібний образ.
 
 ```mermaid
 graph TB

@@ -6,6 +6,8 @@ tags:
   - rules
 aliases:
   - Filtering data in SQL
+links:
+  - "[[SQL]]"
 ---
 - [[WHERE]] — за певним критеріїм
 - [[IN]] — множинний вибір

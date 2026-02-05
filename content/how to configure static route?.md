@@ -6,6 +6,8 @@ tags:
   - OS/Linux
   - network
 aliases:
+links:
+  - "[[ip command]]"
 ---
 ```bash
 $ sudo ip route add 192.0.2.1/24 via 10.0.0.2 dev eth0

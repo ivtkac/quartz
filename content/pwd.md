@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Вивести поточну директорію
+links:
+  - "[[man]]"
 ---
 > [!info] Вивести шлях до поточної директорії.
 

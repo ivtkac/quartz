@@ -7,6 +7,8 @@ tags:
   - monitoring
 aliases:
 description: Аналіз трафіку між IP-адресами
+links:
+  - "[[man]]"
 ---
 > [!info] Утиліта для аналізу трафіку між IP-адресами в реальному часі.
 

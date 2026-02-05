@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - docker
 aliases:
+links:
+  - "[[Docker]]"
 ---
 To delete all containers:
 

@@ -6,6 +6,5 @@ tags:
   - architecture
   - design
 aliases:
-lang:
 ---
 Service boundaries define clear interfaces between system components.

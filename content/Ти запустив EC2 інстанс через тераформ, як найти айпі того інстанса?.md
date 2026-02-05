@@ -7,6 +7,9 @@ tags:
   - terraform
   - devops
 aliases:
+links:
+  - "[[AWS EC2]]"
+  - "[[Terraform]]"
 ---
 - блок output у тераформі-коді, щоб експортувати необхідну інформацію, як [[IP]]
 

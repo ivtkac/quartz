@@ -8,6 +8,8 @@ tags:
 aliases:
   - IP Traffic Monitor
 description: Моніторинг мережевого трафіку
+links:
+  - "[[man]]"
 ---
 > [!tldr]
 > **iptraf (IP Traffic Monitor)** - утиліта для моніторингу мережевого трафіку в реальному часі.

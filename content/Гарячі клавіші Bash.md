@@ -5,6 +5,8 @@ tags:
   - bash
   - shortcuts
 aliases:
+links:
+  - "[[Bash]]"
 ---
 
 ## Навігація

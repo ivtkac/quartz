@@ -6,6 +6,8 @@ tags:
   - OS/Linux
   - text-processing
 aliases:
+links:
+  - "[[man]]"
 ---
 > [!info] Читає зі стандартного вводу та записує у стандартний вивід або у файл
 

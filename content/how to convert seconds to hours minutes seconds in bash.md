@@ -5,6 +5,9 @@ tags:
   - 🦮how-to
   - bash
 aliases:
+links:
+  - "[[date]]"
+  - "[[Bash]]"
 ---
 ```bash
 seconds=1000

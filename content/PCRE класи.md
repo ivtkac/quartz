@@ -4,6 +4,9 @@ title: PCRE класи
 tags:
   - regex
 aliases:
+links:
+  - "[[Символьні класи у POSIX]]"
+  - "[[Регулярні вирази]]"
 ---
 > [!example] PCRE Класи
 > - `\d` — цифри (0-9)

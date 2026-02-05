@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - swap
 aliases:
+links:
+  - "[[Swap]]"
 ---
 ```bash
 $ cat /proc/swaps

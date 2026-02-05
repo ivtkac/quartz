@@ -7,6 +7,8 @@ tags:
   - pam
 aliases:
 description: Видалити користувача
+links:
+  - "[[man]]"
 ---
 > [!info] Видалити користувача
 

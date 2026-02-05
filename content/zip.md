@@ -7,6 +7,9 @@ tags:
   - archives
 aliases:
 description: " Створює zip архів з стисненням."
+links:
+  - "[[man]]"
+  - "[[Архіватор]]"
 ---
 > [!info]  Створює zip архів з стисненням.
 

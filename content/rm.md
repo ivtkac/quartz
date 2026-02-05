@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Видалити файл
+links:
+  - "[[man]]"
 ---
 > [!info] Видалити файл або директорію.
 

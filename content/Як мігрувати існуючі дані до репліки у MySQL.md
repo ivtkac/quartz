@@ -7,6 +7,8 @@ tags:
   - mysql
 aliases:
   - How to migrate existed data to replica in MySQL?
+links:
+  - "[[MySQL]]"
 ---
 1. Підключитись до source ("мастера")
 2. Експортувати базу даних: `sudo mysqldump -u root db > db.sql`

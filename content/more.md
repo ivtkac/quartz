@@ -8,6 +8,8 @@ tags:
   - text-processing
 aliases:
 description: Переглянути текст як сторінки
+links:
+  - "[[man]]"
 ---
 > [!info] Для перегляду довгого тексту у вигляді **сторінок**.
 

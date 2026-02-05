@@ -4,7 +4,6 @@ created: 2025-12-04
 tags:
   - filesystem
 aliases:
-lang:
 ---
 - device mapper works on [[Блочний пристрій|block devices]]
 - not have default performance

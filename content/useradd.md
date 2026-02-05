@@ -7,6 +7,8 @@ tags:
   - pam
 aliases:
 description: Створити нового користувача
+links:
+  - "[[man]]"
 ---
 > [!info] Створити користувача
 

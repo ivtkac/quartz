@@ -7,6 +7,8 @@ tags:
   - pam
 aliases:
 description: Делагування повноважень
+links:
+  - "[[man]]"
 ---
 > [!quote] please... sudo.. please
 

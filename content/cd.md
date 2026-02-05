@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Змінити директорію
+links:
+  - "[[man]]"
 ---
 > [!info] Змінити каталог
 

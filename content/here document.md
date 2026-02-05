@@ -4,6 +4,8 @@ title: here document
 tags:
   - bash
 aliases:
+links:
+  - "[[Bash]]"
 ---
 > [!tldr] **here document** дозволяє ввести кілька рядків тексту як вхідні дані для команди або скрипта.
 

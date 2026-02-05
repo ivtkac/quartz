@@ -5,6 +5,8 @@ tags:
   - mysql
   - pam
 aliases:
+links:
+  - "[[GRANT]]"
 ---
 
 1. Глобальний: (`mysql.user`) на усі БД

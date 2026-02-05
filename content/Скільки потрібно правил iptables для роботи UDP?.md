@@ -6,5 +6,7 @@ tags:
   - iptables
   - network
 aliases:
+links:
+  - "[[UDP]]"
 ---
-Всього лиш один...
+Всього лише одне правило.

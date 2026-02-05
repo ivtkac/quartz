@@ -7,6 +7,9 @@ tags:
   - archives
 aliases:
 description: Розпакувати файли .gz, .tar.gz
+links:
+  - "[[man]]"
+  - "[[Архіватор]]"
 ---
 > [!info] Розпаковує файли стиснені [[gzip]]. Підтримує розширення: .gz, .z, .tgz, .tar.gz
 

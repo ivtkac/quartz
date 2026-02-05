@@ -6,6 +6,9 @@ tags:
   - mysql
 aliases:
   - How to connect to mysql server?
+links:
+  - "[[mysql command]]"
+  - "[[MySQL]]"
 ---
 ## З'єднання за замовчуванням
 

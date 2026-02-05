@@ -7,4 +7,4 @@ tags:
 aliases:
 ---
 > [!tldr]
-> **Continuous integration** is the process of automatically building and testing code every time a team member commits code changes to [[Version control]]
+> **CI (Безперервна інтеграція)** — це процес автоматичного створення та тестування коду щоразу, коли член команди вносить зміни до системи [[Контроль версій|контролю версій]].

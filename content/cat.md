@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Вивести вміст файлу
+links:
+  - "[[man]]"
 ---
 > [!info] Вивести контент [[файл|файлу]] або об'єднати файли в один.
 

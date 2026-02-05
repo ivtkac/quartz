@@ -7,6 +7,8 @@ tags:
   - monitoring
 aliases:
 description: Аналіз активності системи
+links:
+  - "[[man]]"
 ---
 > [!info] Утиліта для аналізу активності системи на основі даних [[sysstat]].
 

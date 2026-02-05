@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - selinux
 aliases:
+links:
+  - "[[SELinux]]"
 ---
 ```bash
 $ vi /etc/sysconfig/selinux

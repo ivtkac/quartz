@@ -5,6 +5,9 @@ tags:
   - 🦮how-to
   - mysql
 aliases:
+links:
+  - "[[SQL]]"
+  - "[[Як змінити значення змінної статично у MySQL?]]"
 ---
 ```sql
 SET GLOBAL validate_password.policy = LOW;

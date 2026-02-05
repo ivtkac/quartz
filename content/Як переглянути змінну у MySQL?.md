@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - mysql
 aliases:
+links:
+  - "[[MySQL]]"
 ---
 ```sql
 SHOW VARIABLES;

@@ -7,6 +7,9 @@ tags:
   - replication
 aliases:
   - How to setup MySQL to replicate specific database?
+links:
+  - "[[MySQL]]"
+  - "[[Конфігураційні файли MySQL|MySQL config files]]"
 ---
 > [!note]- Змінні
 > - **replicate-do-db**: перелік БД, які потрібно реплікувати (якщо цієї змінни не існує, то реплікує усі бази дани)

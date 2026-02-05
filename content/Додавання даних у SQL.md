@@ -5,6 +5,8 @@ tags:
   - sql
   - rules
 aliases:
+links:
+  - "[[SQL]]"
 ---
 ```sql
 INSERT INTO table_name (column1, column2) 

@@ -5,6 +5,8 @@ tags:
   - apache
   - principle
 aliases:
+links:
+  - "[[Apache HTTP Server]]"
 ---
 ```
 ┌─────────────────────────┐

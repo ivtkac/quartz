@@ -7,6 +7,9 @@ tags:
   - filesystem
 aliases:
 lang:
+links:
+  - "[[mdam]]"
+  - "[[RAID]]"
 ---
 ```bash
 mdadm <device> --add /dev/new-disk

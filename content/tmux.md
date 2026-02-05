@@ -8,6 +8,8 @@ tags:
   - multiplexer
 aliases:
 description: Альтернатива до screen
+links:
+  - "[[man]]"
 ---
 > [!info] Програма для мультиплексування терміналів.
 

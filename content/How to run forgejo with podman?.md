@@ -3,6 +3,9 @@ created: 2025-11-14
 title: How to run forgejo with podman?
 tags:
 aliases:
+links:
+  - "[[forgejo]]"
+  - "[[podman]]"
 ---
 ## Container Configuration
 

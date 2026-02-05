@@ -5,7 +5,6 @@ tags:
   - devops
   - logging
 aliases:
-lang:
 ---
 > [!tldr]
 > **Logstash** is a tool that can take some input, transform it, and then save it somewhere.

@@ -5,6 +5,5 @@ tags:
   - api
   - protocol
 aliases:
-lang:
 ---
 - web-sockets for real-time communication

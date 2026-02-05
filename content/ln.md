@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Створити символьне посилання
+links:
+  - "[[man]]"
 ---
 > [!info] Створити символьне посилання
 

@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - OS/Linux
 aliases:
+links:
+  - "[[last]]"
 ---
 ```
 last reboot

@@ -5,7 +5,6 @@ tags:
   - 🦮how-to
   - docker
 aliases:
-lang:
 ---
 - `docker --version` - version of [[Docker]] client, server, container
 - `docker version --format '{{ .Server.Version }}'` - server version

@@ -5,6 +5,8 @@ tags:
   - scripting
   - awk
 aliases:
+links:
+  - "[[awk]]"
 ---
 
 | Оператор | Пояснення              | Приклад                        |

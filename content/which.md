@@ -7,6 +7,8 @@ tags:
   - help
 aliases:
 description: Відобразити шлях до команди
+links:
+  - "[[man]]"
 ---
 > [!info] Відобразити шлях до команди.
 

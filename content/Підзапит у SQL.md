@@ -5,6 +5,8 @@ tags:
   - sql
 aliases:
 description: Запит всередині іншого запиту
+links:
+  - "[[SQL]]"
 ---
 
 > [!tldr]

@@ -6,6 +6,9 @@ tags:
   - backups
   - 🦮how-to
 aliases:
+links:
+  - "[[mysql command]]"
+  - "[[MySQL]]"
 ---
 ```bash
 mysql -u root VoipCompany < backup.sql

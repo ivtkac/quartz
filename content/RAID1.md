@@ -5,7 +5,6 @@ tags:
   - filesystem
   - raid
 aliases:
-lang:
 ---
 - uses mirroring on disks
 - requires minimum 2 drives

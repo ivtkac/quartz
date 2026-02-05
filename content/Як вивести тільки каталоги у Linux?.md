@@ -6,6 +6,9 @@ tags:
   - filesystem
   - OS/Linux
 aliases:
+links:
+  - "[[ls]]"
+  - "[[find]]"
 ---
 ```bash
 $ ls -ld */

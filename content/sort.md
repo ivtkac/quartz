@@ -6,5 +6,7 @@ tags:
   - OS/Linux
 aliases:
 description: Сортує рядки тексту
+links:
+  - "[[man]]"
 ---
 > [!tldr] Сортує рядки тексту

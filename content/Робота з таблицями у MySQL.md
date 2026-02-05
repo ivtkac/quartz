@@ -6,6 +6,7 @@ tags:
 aliases:
   - Work with tables in MySQL
   - MySQL tables
+lang: "[[MySQL]]"
 ---
 
 | **Команда**         | **Опис**                   |

@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Створити новий файл
+links:
+  - "[[man]]"
 ---
 > [!info] Створює новий файл або змінює атрибути часу для файлу.
 

@@ -4,6 +4,8 @@ title: Типи данних у MySQL
 tags:
   - mysql
 aliases:
+links:
+  - "[[MySQL]]"
 ---
 ## Рядкові
 

@@ -4,6 +4,9 @@ title: Процес Point-in-Time Recovery
 tags:
   - backups
 aliases:
+links:
+  - "[[Резервні копії у MySQL]]"
+  - "[[Типи резервних копій|Backups]]"
 ---
 1. Відновлення з бекапу
 2. Визначення позиції в binlog

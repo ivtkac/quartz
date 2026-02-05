@@ -5,6 +5,9 @@ tags:
   - 🦮how-to
   - mysql
 aliases:
+links:
+  - "[[MySQL]]"
+  - "[[Як змінити значення змінної на льоту у MySQL?]]"
 ---
 ```ini
 [mysqld]

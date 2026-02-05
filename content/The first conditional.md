@@ -6,7 +6,6 @@ tags:
   - english
 aliases:
   - Future real conditional
-lang: eng
 ---
 > [!note] Also called **future real conditional**
 

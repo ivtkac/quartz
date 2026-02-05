@@ -6,6 +6,9 @@ tags:
   - mysql
   - backups
 aliases:
+links:
+  - "[[mysqldump]]"
+  - "[[MySQL]]"
 ---
 ```bash
 mysqldump -p -u root --databases VoipCompany --tables Customers --where="name='John'" > backup.sql

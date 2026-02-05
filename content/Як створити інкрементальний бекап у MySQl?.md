@@ -6,6 +6,9 @@ tags:
   - backups
   - mysql
 aliases:
+links:
+  - "[[xtrabackup]]"
+  - "[[MySQL]]"
 ---
 ```bash
 xtrabackup --backup --target-dir=/data/backups/inc1 --incremental-basedir=/data/backups/full

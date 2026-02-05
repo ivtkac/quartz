@@ -6,6 +6,8 @@ tags:
   - filesystem
   - OS/Linux
 aliases:
+links:
+  - "[[df]]"
 ---
 ```bash
 $ df -i

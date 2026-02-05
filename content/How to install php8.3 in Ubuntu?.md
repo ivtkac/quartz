@@ -6,7 +6,6 @@ tags:
   - php
   - 🦮how-to
 aliases:
-lang:
 ---
 - Remove existed apache (if available)
 ```bash

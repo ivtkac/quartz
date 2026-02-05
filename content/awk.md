@@ -8,6 +8,8 @@ tags:
   - text-processing
 aliases:
 doc: https://www.gnu.org/s/gawk/manual/gawk.html
+links:
+  - "[[man]]"
 ---
 > [!question]- FAQ
 > - [[Структура програми awk]]

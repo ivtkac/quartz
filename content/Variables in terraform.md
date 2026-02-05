@@ -4,7 +4,6 @@ created: 2025-12-03
 tags:
   - terraform
 aliases:
-lang: eng
 ---
 ## Define variables
 

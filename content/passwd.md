@@ -7,6 +7,8 @@ tags:
   - pam
 aliases:
 description: Змінити пароль
+links:
+  - "[[man]]"
 ---
 > [!info] Змінити пароль.
 

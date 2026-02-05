@@ -7,6 +7,8 @@ tags:
   - text-processing
 aliases:
 description: Вивести перші рядки
+links:
+  - "[[man]]"
 ---
 > [!info] Вивести перших $10$ рядків файлу.
 

@@ -4,7 +4,6 @@ created: 2025-12-31
 tags:
   - k8s
 aliases:
-lang:
 ---
 - store data
 - store [[docker image]] (registry)

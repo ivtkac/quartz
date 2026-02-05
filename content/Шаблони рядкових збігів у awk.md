@@ -5,6 +5,8 @@ tags:
   - scripting
   - awk
 aliases:
+links:
+  - "[[awk]]"
 ---
 - `/regexpr/` (те саме, що `$0 ~`) — перевіряє збіг у рядках, які містять підрядок `regexpr`
 - `expression ~ /regexpr/` — збіг, якщо рядок `expression` містить підрядок `regexpr`

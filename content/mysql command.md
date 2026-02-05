@@ -6,6 +6,8 @@ tags:
   - man
 aliases:
 description: Команда для взаємодії з MySQL сервером
+links:
+  - "[[man]]"
 ---
 > [!info] Взаємодія зі сервером [[MySQL]] ([[mysqld]]).
 

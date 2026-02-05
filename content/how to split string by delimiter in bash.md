@@ -5,6 +5,9 @@ tags:
   - 🦮how-to
   - bash
 aliases:
+links:
+  - "[[Bash]]"
+  - "[[Bash IFS]]"
 ---
 
 ```bash

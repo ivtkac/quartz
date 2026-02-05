@@ -5,7 +5,6 @@ tags:
   - filesystem
 aliases:
   - Redundant Array of Independent Disks
-lang:
 url: https://www.youtube.com/watch?v=Eoaok8mG1vw
 ---
 > [!tldr]

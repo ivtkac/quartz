@@ -6,6 +6,9 @@ tags:
   - backups
   - 🦮how-to
 aliases:
+links:
+  - "[[xtrabackup]]"
+  - "[[MySQL]]"
 ---
 ```bash
 xtrabackup -u[user] -p[password] --backup --target-dir=/data/backups/full

@@ -6,6 +6,8 @@ tags:
   - k8s
 aliases:
 lang:
+links:
+  - "[[man]]"
 ---
 - [[CLI]] for [[k8s]] clusters
 - **kubeconfig file**

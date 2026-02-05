@@ -4,7 +4,6 @@ created: 2025-12-18
 tags:
   - k8s
 aliases:
-lang:
 ---
 - schedules pods on nodes
 - plays "tetris" on all pods

@@ -5,7 +5,8 @@ tags:
   - filesystem
   - raid
 aliases:
-lang:
+links:
+  - "[[RAID]]"
 ---
 **RAID0** combines minimum 2 disks and act as one. (Stripping)
 

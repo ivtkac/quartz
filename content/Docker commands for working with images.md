@@ -4,7 +4,6 @@ created: 2025-12-11
 tags:
   - docker
 aliases:
-lang:
 ---
 The following [[Docker]] commands are used for working with Docker [[docker image|images]]:
 

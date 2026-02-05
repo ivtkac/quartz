@@ -6,6 +6,8 @@ tags:
   - selinux
   - database
 aliases:
+links:
+  - "[[SELinux]]"
 ---
 ```bash
 $ semanage boolean -l | less

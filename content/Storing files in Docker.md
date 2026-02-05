@@ -4,7 +4,6 @@ created: 2025-12-13
 tags:
   - docker
 aliases:
-lang:
 ---
 There are **three** options in [[Docker]] to store data:
 

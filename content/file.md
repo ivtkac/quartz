@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Визначити тип файлу
+links:
+  - "[[man]]"
 ---
 > [!info] Визначити тип файлу
 

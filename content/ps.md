@@ -7,6 +7,8 @@ tags:
   - process
 aliases:
 description: Вивести процеси
+links:
+  - "[[man]]"
 ---
 > [!info] Отримати моментальний знімок процесів. 
 

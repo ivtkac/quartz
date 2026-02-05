@@ -6,6 +6,9 @@ tags:
   - logging
 aliases:
 lang:
+links:
+  - "[[Логування]]"
 ---
+
 > [!tldr]
-> **Application log** is a combination of STDOUT/STDERR logs of the main [[Процес|process]] of the application and custom application logs.
+> **Логипрограми** – це комбінація журналів STDOUT/STDERR основного [[Процес|процесу]] програми та журналів користувацьких програм.

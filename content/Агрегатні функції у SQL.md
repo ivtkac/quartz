@@ -6,6 +6,8 @@ tags:
   - rules
 aliases:
   - Aggregation functions SQL
+links:
+  - "[[SQL]]"
 ---
 - [[COUNT]] — кількість записів
 - [[SUM]] — сума значень

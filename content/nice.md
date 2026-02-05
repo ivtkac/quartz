@@ -7,6 +7,8 @@ tags:
   - process
 aliases:
 description: Змінити пріоритет процесу
+links:
+  - "[[man]]"
 ---
 > [!info] Змінити приріотет процесу.
 

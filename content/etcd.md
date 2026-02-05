@@ -4,7 +4,6 @@ created: 2025-12-18
 tags:
   - k8s
 aliases:
-lang:
 ---
 - distributed key-value store
 - primary datastore of [[k8s]]

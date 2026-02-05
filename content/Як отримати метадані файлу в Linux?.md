@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - filesystem
 aliases:
+links:
+  - "[[stat]]"
 ---
 
 ```bash

@@ -7,6 +7,8 @@ tags:
   - help
 aliases:
 description: Довідник для команди
+links:
+  - "[[man]]"
 ---
 > [!info] Довідник для команд.
 

@@ -6,7 +6,6 @@ tags:
   - containerzation
   - virtualization
 aliases:
-lang:
 ---
 контейнери:
 

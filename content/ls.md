@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Вивести вміст каталогу
+links:
+  - "[[man]]"
 ---
 > [!question]- FAQ
 > - [[Звідки ls бере інформацію про файл?]]

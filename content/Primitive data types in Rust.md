@@ -5,7 +5,8 @@ tags:
   - rust
   - programming
 aliases:
-lang:
+links:
+  - "[[Rust]]"
 ---
 ```rust
 // int, float, bool, char

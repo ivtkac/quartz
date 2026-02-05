@@ -7,6 +7,8 @@ tags:
   - OS/Linux
   - systemd
 aliases:
+links:
+  - "[[man]]"
 ---
 > [!info] Команда для управління [[systemd]].
 

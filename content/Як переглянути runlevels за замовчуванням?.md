@@ -7,6 +7,8 @@ tags:
   - systemd
 aliases:
   - How to check default runlevels?
+links:
+  - "[[systemctl]]"
 ---
 ```bash
 $ systemctl get-default

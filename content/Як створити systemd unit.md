@@ -5,6 +5,8 @@ tags:
   - 🦮how-to
   - systemd
 aliases:
+links:
+  - "[[systemd]]"
 ---
 1. Створити файл юніта
 

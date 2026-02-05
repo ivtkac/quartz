@@ -6,6 +6,8 @@ tags:
   - filesystem
 aliases:
 description: Перемістити або перейменувати файл
+links:
+  - "[[man]]"
 ---
 > [!info] Перемістити або перейменувати файл.
 

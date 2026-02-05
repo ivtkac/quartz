@@ -5,10 +5,11 @@ tags:
   - devops
   - logging
 aliases:
-lang:
+links:
+  - "[[Логування]]"
 ---
-- allows centralized all logs
-- set of three tools: 
+- дозволяє централізувати всі логи
+- набір із трьох інструментів:
 	- [[Elasticsearche]]
 	- [[Logstash]]
 	- [[Kibana]]

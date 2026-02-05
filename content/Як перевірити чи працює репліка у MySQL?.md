@@ -7,6 +7,9 @@ tags:
   - mysql
 aliases:
   - How to check mysql replica status?
+links:
+  - "[[Реплікація]]"
+  - "[[MySQL]]"
 ---
 На репліці сервері:
 

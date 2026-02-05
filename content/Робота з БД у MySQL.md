@@ -6,6 +6,8 @@ tags:
 aliases:
   - Work with database in MySQL
   - MySQL databases
+links:
+  - "[[MySQL]]"
 ---
 
 | **Команда**         | **Опис**              |

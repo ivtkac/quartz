@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Створити директорію
+links:
+  - "[[man]]"
 ---
 > [!info] Створити директорію.
 

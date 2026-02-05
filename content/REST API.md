@@ -4,7 +4,6 @@ created: 2026-01-01
 tags:
   - api
 aliases:
-lang:
 ---
 - resource-based
 	- organized around resources using [[HTTP]] methods

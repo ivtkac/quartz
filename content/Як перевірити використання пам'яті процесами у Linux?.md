@@ -7,6 +7,8 @@ tags:
   - OS/Linux
 aliases:
   - How to check memory usage in Linux?
+links:
+  - "[[ps]]"
 ---
 ```bash
 ps axo,rss,comm,pid | awk '{print "%0.fMB\t%s\t%s\n", $1/1024, $2, $3}' | sort -nr

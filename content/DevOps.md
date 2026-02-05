@@ -3,6 +3,7 @@ created: 2025-11-13
 title: DevOps
 tags:
   - devops
+  - 🌱hyperfixation
 aliases:
   - Що таке DevOps?
 ---

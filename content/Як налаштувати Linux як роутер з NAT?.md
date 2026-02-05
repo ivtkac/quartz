@@ -8,6 +8,9 @@ tags:
   - nat
 aliases:
   - How to setup Linux as Router with NAT?
+links:
+  - "[[Linux]]"
+  - "[[Роутер]]"
 ---
 1.  Дозволити переадрасацію IP:
 

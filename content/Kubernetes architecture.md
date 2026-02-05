@@ -4,7 +4,6 @@ created: 2025-12-14
 tags:
   - k8s
 aliases:
-lang:
 ---
 - cluster = 
 - node = each server or VM

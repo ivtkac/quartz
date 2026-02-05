@@ -6,6 +6,8 @@ tags:
   - network
   - iptables
 aliases:
+links:
+  - "[[TCP]]"
 ---
 2 правила, а саме для:
 

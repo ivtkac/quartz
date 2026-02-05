@@ -7,6 +7,9 @@ tags:
   - archives
 aliases:
 description: Розпакувати файли .bz2, .bz, .tbz2, .tbz
+links:
+  - "[[man]]"
+  - "[[Архіватор]]"
 ---
 > [!info] Розпаковує файли стиснені [[bzip2]]. Підтримує розширення: `.bz2`, `.bz`, `.tbz2`, `.tbz`
 

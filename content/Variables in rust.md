@@ -5,7 +5,8 @@ tags:
   - programming
   - rust
 aliases:
-lang:
+links:
+  - "[[Rust]]"
 ---
 - **assigned** using `let` keyword
 - **print** to standard output by `print!()` or `println!()`

@@ -7,6 +7,8 @@ tags:
   - mysql
 aliases:
   - How to check if mysql is connected?
+links:
+  - "[[ss]]"
 ---
 > [!example] Перевірити через сокет з'єднання
 > ```bash

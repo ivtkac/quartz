@@ -4,7 +4,6 @@ created: 2025-12-18
 tags:
   - k8s
 aliases:
-lang:
 ---
 - focused on running containers
 - runs on all [[k8s node|Nodes]]

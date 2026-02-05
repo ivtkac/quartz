@@ -4,5 +4,7 @@ title: terraform plan
 tags:
   - terraform
 aliases:
+links:
+  - "[[Terraform]]"
 ---
 - desired state | actual state

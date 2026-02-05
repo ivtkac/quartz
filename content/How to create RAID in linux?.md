@@ -6,7 +6,9 @@ tags:
   - OS/Linux
   - filesystem
 aliases:
-lang:
+links:
+  - "[[mdam]]"
+  - "[[RAID]]"
 ---
 ```bash
 sudo mdadm --create --verbose /dev/md1 --level=1 --raid-devices=2

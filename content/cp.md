@@ -7,6 +7,8 @@ tags:
   - filesystem
 aliases:
 description: Скопіювати файл
+links:
+  - "[[man]]"
 ---
 > [!info] Копіює файли та директорії.
 

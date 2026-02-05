@@ -8,5 +8,7 @@ tags:
   - deprecated
 aliases:
 description: Контроль інтерфейсів мережі
+links:
+  - "[[man]]"
 ---
 > [!info] Дозволяє конфігурувати та контролювати [[TCP IP|TCP/IP]] інтерфейсами мережі

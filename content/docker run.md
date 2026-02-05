@@ -4,7 +4,8 @@ created: 2025-12-12
 tags:
   - docker
 aliases:
-lang:
+links:
+  - "[[Docker]]"
 ---
 docker run can be used with the following parameters:
 

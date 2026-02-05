@@ -6,6 +6,8 @@ tags:
   - OS/Linux
   - filesystem
 aliases:
+links:
+  - "[[Домашній каталог користувача]]"
 ---
 
 - для звичайних користувачів (id > 1000): `/home/$user`

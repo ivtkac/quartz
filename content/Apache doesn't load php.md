@@ -5,14 +5,16 @@ tags:
   - apache
   - troubleshooting
 aliases:
-lang:
+links:
+  - "[[Apache HTTP Server]]"
 ---
+
 ```bash
-$ sudo a2dismod mpm_event 
+$ sudo a2dismod mpm_event
 Module mpm_event disabled.
 To activate the new configuration, you need to run:
   systemctl restart apache2
-$ sudo a2enmod php8.3 
+$ sudo a2enmod php8.3
 Considering dependency mpm_prefork for php8.3:
 Considering conflict mpm_event for mpm_prefork:
 Considering conflict mpm_worker for mpm_prefork:

@@ -9,6 +9,8 @@ tags:
 aliases:
 doc: https://vimhelp.org/
 description: Текстовий редактор
+links:
+  - "[[man]]"
 ---
 
 > [!tldr]

@@ -6,6 +6,8 @@ tags:
   - OS/Linux
   - filesystem
 aliases:
+links:
+  - "[[file]]"
 ---
 ```bash
 file file.txt

@@ -7,6 +7,9 @@ tags:
   - archives
 aliases:
 description: Стиснути файли .bz2
+links:
+  - "[[man]]"
+  - "[[Архіватор]]"
 ---
 > [!info] Стискає файли з додавання розширення `.bz2`.
 
